@@ -1,26 +1,8 @@
-# Galaxy API 数据服务平台
+# 小红书数据接口，小红书API，自媒体数据获取，小红书爬虫服务
 
 > 小红书、抖音等平台的数据 API 服务，提供统一鉴权、在线文档、接口测试、调用统计与按次计费。
 
 无需自行维护账号、Cookie、代理或处理复杂的风控与加密逻辑，通过标准 HTTP API 即可获取数据。
-
-## 平台入口
-
-- 官方网站：https://galaxysapi.com/
-- API 文档：https://api.galaxysapi.com/doc/
-- API 地址：`https://api.galaxysapi.com`
-- 商务咨询 / 充值：微信 `zx_luckfe`
-
-## 平台功能
-
-- API Key 统一鉴权
-- 调用成功才扣费，失败和异常不扣费
-- 在线接口文档与一键测试
-- 调用日志、消费记录和用量统计
-- 多上游自动切换与失败回退
-- 用户多密钥管理
-- 接口定价与账户余额管理
-- 支持接口定制与商务合作
 
 ## 接口服务
 
@@ -109,19 +91,11 @@ response = requests.get(
 print(response.json())
 ```
 
-## 使用流程
-
-1. 访问 [Galaxy API](https://galaxysapi.com/) 注册账号。
-2. 注册完成后，平台会自动生成默认 API Key。
-3. 在 [API 文档](https://api.galaxysapi.com/doc/) 中查看参数并在线测试。
-4. 请求时在 `Authorization` Header 中携带 API Key。
-5. 如需充值、批量调用或定制接口，请联系管理员。
 
 ## 联系方式
 
 - 微信：`zx_luckfe`
 - 服务内容：API 接入、批量调用、接口定制、商务合作
-- 在线支付暂未开放，充值请联系管理员
 
 > 请在遵守目标平台规则及相关法律法规的前提下使用本服务，不得用于侵犯个人隐私或其他非法用途。
 
