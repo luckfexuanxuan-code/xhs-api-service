@@ -94,7 +94,7 @@ print(response.json())
 
 ## 联系方式
 
-- wechat：`luckfe_zx`\
+- wechat：`luckfe_zx`
 - tg:@luckfezx
 - 服务内容：API 接入、批量调用、接口定制、商务合作
 
