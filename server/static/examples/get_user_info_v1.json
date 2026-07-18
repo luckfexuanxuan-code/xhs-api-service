@@ -1,0 +1,182 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "level": {
+      "image_link": "",
+      "number": 0
+    },
+    "collected_poi_num": 0,
+    "collected_tags_num": 0,
+    "collected_book_num": 0,
+    "remark_name": "",
+    "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313fatieog00g4aepgp2qdeaigtvsnt8?imageView2/2/w/360/format/webp",
+    "share_info": {
+      "title": "冯琳Fairy",
+      "content": "东方卫视\n中传x复旦｜新闻硕士🎓 \n𝑭𝑳𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒚 💙163.com"
+    },
+    "red_official_verify_type": 1,
+    "avatar_like_status": false,
+    "blocking": false,
+    "tags": [
+      {
+        "name": "复旦大学",
+        "tag_type": "college"
+      }
+    ],
+    "fstatus": "none",
+    "default_collection_tab": "note",
+    "is_recommend_level_illegal": false,
+    "user_role_type": 6,
+    "sec_account_deeplink": "xhsdiscover://rn/accounts/account-detail?targetId=5b7445a64115e0000101b952&new_page_exp=1",
+    "result": {
+      "success": true,
+      "code": 0,
+      "message": "success"
+    },
+    "red_id": "19971019FY",
+    "red_club_info": {
+      "red_club": false,
+      "red_club_level": 0,
+      "red_club_url": "https://www.xiaohongshu.com/store/mc/landing",
+      "redclubscore": 0
+    },
+    "seller_info": {
+      "tab_goods_api_version": 1,
+      "tab_code_names": [],
+      "is_tab_goods_first": true
+    },
+    "tab_visible": {
+      "note": true,
+      "collect": false,
+      "like": false,
+      "seed": true
+    },
+    "red_official_verify_arrow": 0,
+    "share_info_v2": {
+      "title": "@冯琳Fairy的个人主页",
+      "content": "粉丝: 117.7万\n获赞与收藏: 609.6万"
+    },
+    "collected_brand_num": 0,
+    "brand_account_info": {
+      "trade_type_first_name": "",
+      "conversions": [
+        {
+          "link": "xhsdiscover://message/userPublicGroupList?user_id=5b7445a64115e0000101b952&username=TA",
+          "is_shop": false,
+          "is_red_shop": false,
+          "sub_title": "查看详情",
+          "id": "11",
+          "name": "群聊",
+          "icon": "https://picasso-static.xiaohongshu.com/fe-platform/c17fa18d287ca13418e1a6ae86270895a10c9d78.png"
+        }
+      ]
+    },
+    "desc_at_users": [],
+    "identity_label_migrated": false,
+    "fans": 1177025,
+    "nboards": 0,
+    "blocked": false,
+    "user_widget_switch": false,
+    "follows": 350,
+    "tab_public": {
+      "collection": false,
+      "collection_note": true,
+      "collection_board": true,
+      "seed": false
+    },
+    "avatar_pendant": {
+      "current_user_pendant": false,
+      "current_user_pet": false
+    },
+    "user_desc_info": {
+      "desc": "东方卫视\n中传x复旦｜新闻硕士🎓 \n𝑭𝑳𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒚 💙163.com",
+      "desc_at_users": [],
+      "desc_with_placeholder": "东方卫视\n中传x复旦｜新闻硕士🎓 \n𝑭𝑳𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒚 💙163.com",
+      "desc_keywords_switch": true
+    },
+    "location": "",
+    "recommend_info_icon": "",
+    "red_official_verify_content": "媒体人",
+    "show_extra_info_button": false,
+    "collected_movie_num": 0,
+    "interactions": [
+      {
+        "type": "follows",
+        "name": "关注",
+        "count": 350,
+        "is_private": true,
+        "toast": "该用户已设置关注列表不可见"
+      },
+      {
+        "type": "fans",
+        "name": "粉丝",
+        "count": 1177025,
+        "is_private": true,
+        "toast": "该用户已设置粉丝列表不可见"
+      },
+      {
+        "is_private": false,
+        "toast": "",
+        "type": "interaction",
+        "name": "获赞与收藏",
+        "count": 6095522
+      }
+    ],
+    "collected": 890567,
+    "ndiscovery": 460,
+    "collected_product_num": 0,
+    "college_info": {
+      "college_name": "复旦大学",
+      "enrollment_year": 2022
+    },
+    "zhong_tong_bar_info": {
+      "conversions": [
+        {
+          "name": "群聊",
+          "icon": "https://picasso-static.xiaohongshu.com/fe-platform/c17fa18d287ca13418e1a6ae86270895a10c9d78.png",
+          "link": "xhsdiscover://message/userPublicGroupList?user_id=5b7445a64115e0000101b952&username=TA",
+          "sub_title": "查看详情",
+          "id": "11"
+        }
+      ]
+    },
+    "real_name_deep_target": 1,
+    "is_login_user_pro_account": false,
+    "imageb": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313fatieog00g4aepgp2qdeaigtvsnt8?imageView2/2/w/540/format/webp",
+    "liked": 5204955,
+    "nickname": "冯琳Fairy",
+    "recommend_info": "",
+    "red_official_verified": false,
+    "community_rule_url": "https://www.xiaohongshu.com/user/community-rule",
+    "note_num_stat": {
+      "liked": 5204955,
+      "collected": 890567,
+      "posted": 460
+    },
+    "hula_tabs": {
+      "all_show_tab_config": [
+        {
+          "tab_id": "note",
+          "tab_name": "笔记",
+          "tab_index_weight": 0
+        }
+      ],
+      "tab_id_selected": "note"
+    },
+    "banner_info": {
+      "image": "http://sns-avatar-qc.rednotecdn.com/user_banner/1040g2k031k0lte9c2o004aepgp2qdeailgjvi0g?imageView2/2/w/540/format/jpg&ap=28&sc=USR_BG&src=A",
+      "bg_color": "272625",
+      "like_status": false
+    },
+    "gender": 2,
+    "collected_notes_num": 0,
+    "userid": "5b7445a64115e0000101b952",
+    "real_name_info": "",
+    "desc": "东方卫视\n中传x复旦｜新闻硕士🎓 \n𝑭𝑳𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒚 💙163.com",
+    "location_jump": false,
+    "share_link": "https://www.xiaohongshu.com/user/profile/5b7445a64115e0000101b952?xsec_token=YBh-3qhbMMQFq4btr8IJCd69kJGQg9TlhLpODkXB4uWrI=&xsec_source=app_share",
+    "ip_location": "浙江"
+  },
+  "balance": 99.86
+}

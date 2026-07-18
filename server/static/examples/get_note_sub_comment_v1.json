@@ -1,0 +1,181 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "comments": [
+      {
+        "share_strategy": 0,
+        "note_id": "6718e886000000001b02c67c",
+        "like_count": 1,
+        "liked": false,
+        "score": 0,
+        "friend_liked_msg": "",
+        "hidden": false,
+        "time": 1730346502,
+        "user": {
+          "current_user": "false",
+          "userid": "aa2aec9667f4dca807bcccec4d5fe",
+          "nickname": "喜子菜",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316fpsmfg2o7g5pld23uncfjr23b4748?imageView2/2/w/120/format/jpg",
+          "red_id": "26263538714",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false
+        },
+        "show_type": "common",
+        "target_comment": {
+          "user": {
+            "ai_agent": false,
+            "current_user": "false",
+            "userid": "ae4dc7461736cec4ddbc894ba0100",
+            "nickname": "凡凡小核桃",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3217iaan3ms5g49bvpvs5v22nhvlt3rg?imageView2/2/w/120/format/jpg",
+            "red_id": "263322268",
+            "level": {
+              "image": ""
+            },
+            "additional_tags": {}
+          },
+          "id": "6722db7d000000001a0127c4",
+          "status": 0
+        },
+        "translation_strategy": 10,
+        "downvoted": false,
+        "id": "6722fe060000000002004a1e",
+        "content": "我没有车[doge]不用担心",
+        "at_users": [],
+        "status": 0,
+        "collected": false,
+        "show_tags": [],
+        "comment_type": 0,
+        "show_tags_v2": [
+          {
+            "style_id": "red",
+            "pos": "post_name",
+            "type": "is_author",
+            "text": "作者"
+          }
+        ],
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "true"
+        }
+      },
+      {
+        "target_comment": {
+          "user": {
+            "nickname": "凡凡小核桃",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3217iaan3ms5g49bvpvs5v22nhvlt3rg?imageView2/2/w/120/format/jpg",
+            "red_id": "263322268",
+            "level": {
+              "image": ""
+            },
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "userid": "ae4dc7461736cec4ddbc894ba0100"
+          },
+          "id": "6722db7d000000001a0127c4",
+          "status": 0
+        },
+        "show_tags_v2": [],
+        "translation_strategy": 10,
+        "collected": false,
+        "hidden": false,
+        "status": 0,
+        "user": {
+          "userid": "a66d634c788f68bb4de477ae71fc9",
+          "nickname": "虾滑煎蛋",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vpcf7bc2i4g5n7g1864i4bj2spd2oo?imageView2/2/w/120/format/jpg",
+          "red_id": "355251471",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false"
+        },
+        "time": 1730373295,
+        "comment_type": 0,
+        "id": "672366ae000000001b036a85",
+        "at_users": [],
+        "liked": false,
+        "show_type": "common",
+        "content": "我晚上喝完了睡觉",
+        "like_count": 0,
+        "show_tags": [],
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "unknown"
+        },
+        "downvoted": false,
+        "share_strategy": 0,
+        "note_id": "6718e886000000001b02c67c",
+        "score": 0,
+        "friend_liked_msg": ""
+      },
+      {
+        "score": 0,
+        "status": 0,
+        "show_tags": [],
+        "id": "672997f8000000001b036527",
+        "note_id": "6718e886000000001b02c67c",
+        "liked": false,
+        "hidden": false,
+        "content": "我感觉不行",
+        "at_users": [],
+        "like_count": 0,
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "false"
+        },
+        "share_strategy": 0,
+        "show_type": "common",
+        "friend_liked_msg": "",
+        "translation_strategy": 10,
+        "downvoted": false,
+        "show_tags_v2": [],
+        "collected": false,
+        "time": 1730779129,
+        "user": {
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313t1ug4t2e0g49aeis6qe1jtju89t6o?imageView2/2/w/120/format/jpg",
+          "red_id": "495757976",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "a4a934aad32b617513432c010d583",
+          "nickname": "不想看文献了"
+        },
+        "target_comment": {
+          "id": "6722db7d000000001a0127c4",
+          "status": 0,
+          "user": {
+            "nickname": "凡凡小核桃",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3217iaan3ms5g49bvpvs5v22nhvlt3rg?imageView2/2/w/120/format/jpg",
+            "red_id": "263322268",
+            "level": {
+              "image": ""
+            },
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "userid": "ae4dc7461736cec4ddbc894ba0100"
+          }
+        },
+        "comment_type": 0
+      }
+    ],
+    "has_more": false,
+    "cursor": "{\"cursor\":\"672997f8000000001b036527\",\"index\":2}",
+    "page_context": ""
+  },
+  "balance": 99.86
+}

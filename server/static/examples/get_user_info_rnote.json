@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "data": {
+      "userid": "61b46d790000000010008153",
+      "nickname": "示例用户",
+      "images": "https://sns-avatar-qc.xhscdn.com/avatar/example.jpg",
+      "desc": "用户简介示例",
+      "gender": 0,
+      "location": "中国",
+      "fans": 1000,
+      "follows": 100,
+      "liked": 5000,
+      "collected": 300,
+      "share_link": "https://www.xiaohongshu.com/user/profile/61b46d790000000010008153",
+      "note_num_stat": {
+        "posted": 12,
+        "liked": 5000,
+        "collected": 300
+      }
+    }
+  },
+  "balance": 100
+}

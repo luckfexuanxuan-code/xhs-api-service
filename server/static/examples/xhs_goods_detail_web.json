@@ -1,0 +1,1104 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "code": 200,
+    "shop": {
+      "name": "主典的店",
+      "id": "63f5623238b04800018c7987",
+      "fansAmount": "粉丝数 7720",
+      "salesVolume": "已售 5.6万",
+      "sellerScore": "4.47"
+    },
+    "goods": {
+      "skuNum": 72,
+      "skuList": [
+        {
+          "skuId": "682162cff0736500157ceab8",
+          "name": "·米黄色常规（有内衬）(156-164cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/3eeee2b1-cec3-4c58-9402-86a305c9fb41?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d005b7000015d28d84",
+          "name": "·黑色常规(156-164cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ca04cbaa-a9b2-4ec8-84e4-eb07292eb94c?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d027596b00150cccca",
+          "name": "·米黄小个子（有内衬）(155cm以下)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/c247c599-7ce5-447d-8e07-77318b547e4f?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d02f87160015d6cb6f",
+          "name": "·米黄色加长（有内衬）(165-175cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60a3467e-d2d2-40a3-b17a-aced40a876c5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d02f87160015d6cb77",
+          "name": "·米黄色加长（有内衬）(165-175cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60a3467e-d2d2-40a3-b17a-aced40a876c5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d04584bd00156e4c4e",
+          "name": "·米黄色常规（有内衬）(156-164cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/3eeee2b1-cec3-4c58-9402-86a305c9fb41?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d04584bd00156e4c5a",
+          "name": "·米黄色加长（有内衬）(165-175cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60a3467e-d2d2-40a3-b17a-aced40a876c5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d04584bd00156e4c78",
+          "name": "·米黄小个子（有内衬）(155cm以下)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/c247c599-7ce5-447d-8e07-77318b547e4f?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d06aec03001593446d",
+          "name": "·米黄小个子（有内衬）(155cm以下)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/c247c599-7ce5-447d-8e07-77318b547e4f?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0791e9400151e71e8",
+          "name": "·米黄色常规（有内衬）(156-164cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/3eeee2b1-cec3-4c58-9402-86a305c9fb41?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0791e9400151e7200",
+          "name": "·米黄色加长（有内衬）(165-175cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60a3467e-d2d2-40a3-b17a-aced40a876c5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0a548d000157add28",
+          "name": "·米黄色常规（有内衬）(156-164cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/3eeee2b1-cec3-4c58-9402-86a305c9fb41?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0a548d000157add34",
+          "name": "·米黄色加长（有内衬）(165-175cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60a3467e-d2d2-40a3-b17a-aced40a876c5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0a548d000157add49",
+          "name": "·黑色常规(156-164cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ca04cbaa-a9b2-4ec8-84e4-eb07292eb94c?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0a5e39b0015e88a9a",
+          "name": "·米黄色常规（有内衬）(156-164cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/3eeee2b1-cec3-4c58-9402-86a305c9fb41?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0dc7a6b0015b00551",
+          "name": "·米黄色常规（有内衬）(156-164cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/3eeee2b1-cec3-4c58-9402-86a305c9fb41?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0dc7a6b0015b0055d",
+          "name": "·米黄小个子（有内衬）(155cm以下)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/c247c599-7ce5-447d-8e07-77318b547e4f?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0dc7a6b0015b00561",
+          "name": "·黑色常规(156-164cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ca04cbaa-a9b2-4ec8-84e4-eb07292eb94c?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0e0db0d00150939ea",
+          "name": "·米黄色加长（有内衬）(165-175cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60a3467e-d2d2-40a3-b17a-aced40a876c5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0e0db0d00150939ee",
+          "name": "·米黄小个子（有内衬）(155cm以下)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/c247c599-7ce5-447d-8e07-77318b547e4f?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d0e0db0d00150939f2",
+          "name": "·米黄小个子（有内衬）(155cm以下)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/c247c599-7ce5-447d-8e07-77318b547e4f?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d105b7000015d28d8c",
+          "name": "·黑色常规(156-164cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ca04cbaa-a9b2-4ec8-84e4-eb07292eb94c?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d105b7000015d28d98",
+          "name": "·黑色加长(165-175cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60ded013-e39b-4d3e-b5ed-9bec8a23e6a6?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d105b7000015d28da9",
+          "name": "·白色常规（有内衬）(156-164cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ee9dced3-5779-474d-961f-cee82bd26c4a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d10c1b7400153fac13",
+          "name": "·白色常规（有内衬）(156-164cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ee9dced3-5779-474d-961f-cee82bd26c4a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d10c1b7400153fac17",
+          "name": "·白色加长（有内衬）(165-175cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/48f42527-8fab-4f38-8751-3a3691f146ca?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d115a1180015661ebd",
+          "name": "·黑色加长(165-175cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60ded013-e39b-4d3e-b5ed-9bec8a23e6a6?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d115a1180015661ecd",
+          "name": "·黑色小个子(155cm以下)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7ca6c26e-b77f-4236-9170-7acaf765602b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d127596b00150ccd0b",
+          "name": "·黑色小个子(155cm以下)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7ca6c26e-b77f-4236-9170-7acaf765602b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d127596b00150ccd1b",
+          "name": "·白色加长（有内衬）(165-175cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/48f42527-8fab-4f38-8751-3a3691f146ca?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d12f87160015d6cba0",
+          "name": "·黑色常规(156-164cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ca04cbaa-a9b2-4ec8-84e4-eb07292eb94c?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d13aa6a600155ac45c",
+          "name": "·白色常规（有内衬）(156-164cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ee9dced3-5779-474d-961f-cee82bd26c4a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d13aa6a600155ac460",
+          "name": "·白色常规（有内衬）(156-164cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ee9dced3-5779-474d-961f-cee82bd26c4a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d13aa6a600155ac464",
+          "name": "·白色常规（有内衬）(156-164cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ee9dced3-5779-474d-961f-cee82bd26c4a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d14584bd00156e4c8d",
+          "name": "·黑色加长(165-175cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60ded013-e39b-4d3e-b5ed-9bec8a23e6a6?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d16aec030015934499",
+          "name": "·白色加长（有内衬）(165-175cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/48f42527-8fab-4f38-8751-3a3691f146ca?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1a5e39b0015e88adf",
+          "name": "·黑色小个子(155cm以下)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7ca6c26e-b77f-4236-9170-7acaf765602b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1b6240c0015bb72f4",
+          "name": "·白色小个子（有内衬）(156cm以下)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7e29541c-726e-40f6-9b07-87a09a94b214?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1beccb1001533b26b",
+          "name": "·黑色小个子(155cm以下)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7ca6c26e-b77f-4236-9170-7acaf765602b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1beccb1001533b274",
+          "name": "·黑色小个子(155cm以下)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7ca6c26e-b77f-4236-9170-7acaf765602b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1dc7a6b0015b00575",
+          "name": "·黑色加长(165-175cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60ded013-e39b-4d3e-b5ed-9bec8a23e6a6?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1dc7a6b0015b00586",
+          "name": "·白色加长（有内衬）(165-175cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/48f42527-8fab-4f38-8751-3a3691f146ca?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1dc7a6b0015b0058a",
+          "name": "·白色加长（有内衬）(165-175cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/48f42527-8fab-4f38-8751-3a3691f146ca?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1dc7a6b0015b0058e",
+          "name": "·白色加长（有内衬）(165-175cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/48f42527-8fab-4f38-8751-3a3691f146ca?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1e0db0d0015093a02",
+          "name": "·黑色常规(156-164cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ca04cbaa-a9b2-4ec8-84e4-eb07292eb94c?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1e0db0d0015093a16",
+          "name": "·黑色小个子(155cm以下)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7ca6c26e-b77f-4236-9170-7acaf765602b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1e0db0d0015093a1a",
+          "name": "·白色常规（有内衬）(156-164cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ee9dced3-5779-474d-961f-cee82bd26c4a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1f0736500157ceada",
+          "name": "·黑色加长(165-175cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60ded013-e39b-4d3e-b5ed-9bec8a23e6a6?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d1f0736500157ceae6",
+          "name": "·黑色加长(165-175cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/60ded013-e39b-4d3e-b5ed-9bec8a23e6a6?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d215a1180015661ef9",
+          "name": "·水蓝色常规（有内衬）(156-164cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/5e80689d-b45c-4606-af75-955f3cdf19d5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d227596b00150ccd2b",
+          "name": "·水蓝色常规（有内衬）(156-164cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/5e80689d-b45c-4606-af75-955f3cdf19d5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d22f87160015d6cbec",
+          "name": "·水蓝色小个子（有内衬）(155cm以下)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ae114135-e300-4f28-8e7d-ad21329104c0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d23aa6a600155ac46c",
+          "name": "·白色小个子（有内衬）(156cm以下)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7e29541c-726e-40f6-9b07-87a09a94b214?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d23aa6a600155ac470",
+          "name": "·水蓝色常规（有内衬）(156-164cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/5e80689d-b45c-4606-af75-955f3cdf19d5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d23aa6a600155ac474",
+          "name": "·水蓝色加长（有内衬）(165-175cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/625b8612-a77e-4078-8dfe-fa85b604237a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d24584bd00156e4cad",
+          "name": "·白色小个子（有内衬）(156cm以下)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7e29541c-726e-40f6-9b07-87a09a94b214?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d24584bd00156e4cb1",
+          "name": "·白色小个子（有内衬）(156cm以下)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7e29541c-726e-40f6-9b07-87a09a94b214?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d24584bd00156e4cb9",
+          "name": "·水蓝色常规（有内衬）(156-164cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/5e80689d-b45c-4606-af75-955f3cdf19d5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d24584bd00156e4cbd",
+          "name": "·水蓝色常规（有内衬）(156-164cm)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/5e80689d-b45c-4606-af75-955f3cdf19d5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d24584bd00156e4cc9",
+          "name": "·水蓝色小个子（有内衬）(155cm以下)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ae114135-e300-4f28-8e7d-ad21329104c0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d26aec0300159344b1",
+          "name": "·水蓝色加长（有内衬）(165-175cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/625b8612-a77e-4078-8dfe-fa85b604237a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d26aec0300159344b5",
+          "name": "·水蓝色加长（有内衬）(165-175cm)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/625b8612-a77e-4078-8dfe-fa85b604237a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2791e9400151e724c",
+          "name": "·白色小个子（有内衬）(156cm以下)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7e29541c-726e-40f6-9b07-87a09a94b214?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2a548d000157add6e",
+          "name": "·水蓝色加长（有内衬）(165-175cm)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/625b8612-a77e-4078-8dfe-fa85b604237a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2a548d000157add72",
+          "name": "·水蓝色加长（有内衬）(165-175cm)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/625b8612-a77e-4078-8dfe-fa85b604237a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2a548d000157add7a",
+          "name": "·水蓝色小个子（有内衬）(155cm以下)·L(110-120斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ae114135-e300-4f28-8e7d-ad21329104c0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2a5e39b0015e88aff",
+          "name": "·水蓝色加长（有内衬）(165-175cm)·2XL(130-145斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/625b8612-a77e-4078-8dfe-fa85b604237a?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2a5e39b0015e88b07",
+          "name": "·水蓝色小个子（有内衬）(155cm以下)·XL(120-130斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ae114135-e300-4f28-8e7d-ad21329104c0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2beccb1001533b290",
+          "name": "·白色小个子（有内衬）(156cm以下)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/7e29541c-726e-40f6-9b07-87a09a94b214?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2beccb1001533b2a4",
+          "name": "·水蓝色小个子（有内衬）(155cm以下)·S(90-100斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ae114135-e300-4f28-8e7d-ad21329104c0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2f0736500157ceaf6",
+          "name": "·水蓝色常规（有内衬）(156-164cm)·XS(90斤以下)",
+          "image": "https://mall-i2.xhscdn.com/material_space/5e80689d-b45c-4606-af75-955f3cdf19d5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        },
+        {
+          "skuId": "682162d2f0736500157ceb0a",
+          "name": "·水蓝色小个子（有内衬）(155cm以下)·M(100-110斤)",
+          "image": "https://mall-i2.xhscdn.com/material_space/ae114135-e300-4f28-8e7d-ad21329104c0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+          "price": "108"
+        }
+      ],
+      "itemAnalysisDataText": "已售8255",
+      "carousel": {
+        "images": [
+          {
+            "url": "//mall-i2.xhscdn.com/material_space/07562388-e98f-4045-8898-d1677f314170?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 1500,
+            "height": 1500,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/material_space/da5f057e-1cde-46f7-9c83-3f5244842ac2?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 1500,
+            "height": 1500,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/material_space/d87e519f-a2ef-4b2e-bd84-07f20537daea?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 1500,
+            "height": 1500,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/arkgoods/1040g0o031hcamdf4ko004a8at75q4auff42tbv0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1000,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/material_space/6b5b73c8-1f5a-4bdf-ba96-5195154fc8e3?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 1500,
+            "height": 1500,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/arkgoods/1040g3no31hcalj1fk20g4a8at75q4aufh4p46gg?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 1486,
+            "height": 1982,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/arkgoods/1040g0o031hcapinb42704a8at75q4auf3a4i7i0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1000,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/material_space/925dd075-ed41-45ed-9398-20bd8c20e708?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 1500,
+            "height": 1500,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/arkgoods/1040g3no31hcamnr5j80g4a8at75q4auf34ah9s0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1000,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "//mall-i2.xhscdn.com/arkgoods/1040g0o031hcap5qqja004a8at75q4auff2hbhh0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1000,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          }
+        ],
+        "marketingImage": null,
+        "video": {
+          "url": "https://store.xiaohongshu.com/arkgoods/1040g29g31hcapsp4ko004a8at75q4auft0t1qgo",
+          "width": 960,
+          "height": 1280,
+          "cover": {
+            "url": "https://mall-i2.xhscdn.com/material_space/07562388-e98f-4045-8898-d1677f314170?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 960,
+            "height": 1280,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          "media": null
+        },
+        "skuId": "682162d0791e9400151e7200",
+        "stockStatus": 1
+      },
+      "graphicDetailsV4": {
+        "brandCard": null,
+        "shopActive": null,
+        "brandAuthorization": null,
+        "description": "",
+        "images": [
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/cd9c275f-7f33-414e-90fd-b066a596200e?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1242,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/2e013361-8357-4b2b-a7b3-289843186502?imageView2/2/h/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 624,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/550117da-d0b7-41bf-93d4-77f104958ef9?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1154,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/27e11297-be85-4360-a98a-149717aef350?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1216,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/34e5b268-2fec-43dd-a367-bcf5d90cb569?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1422,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/0e2af6fd-9f59-4d51-b9fe-80b5d3f91240?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1462,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/fe81b944-e139-4970-a2b5-d553cb535b11?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1134,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/fb44f451-516d-475f-955b-38981117210b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1412,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/d8bf1423-5538-402e-b399-84e24c948eac?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1292,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/7e48a6bd-eb71-4f9b-ad35-161e49dfb9aa?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1207,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/f6b06fa8-c17b-435d-98eb-64569286ab85?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1351,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/894b9485-ce59-47d9-942c-39bab2efcb36?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1478,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/88df46ea-d080-47c7-9ad1-ef18495d51c7?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1197,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/baf63748-07f5-46cd-b754-c8cb27d37041?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1386,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/202d700c-4f86-4c2c-87e2-cfddcef8e163?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1314,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/743fb575-5304-4fb3-9609-4af532936621?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1074,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/cd26813b-0081-4be0-9330-55bcee779da4?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 892,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/b/33918fb0-8ade-4d04-bff9-bfc709dba576?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1500,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/b/a3c4891c-3568-4f82-84e9-ed206a757ce6?imageView2/2/h/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 90,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/14c8d81f-3190-4a86-865e-f4a135f917a1?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1200,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/42dae591-c1c8-485f-8184-768d5e11086b?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1039,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/3315efe7-0342-4424-9fc1-c1eee6b79f97?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1090,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/aef44afb-dac7-4dea-8b7b-a0b277456dd0?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1215,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/9a5a8abf-33a4-4ad1-a979-4da35a463396?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1095,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/423a4589-e461-42ac-bcf8-1f16e1371f1d?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1039,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/0832fbf8-ad9d-4b3a-810b-3f9d719880f8?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1222,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/77b5318f-13e4-422f-be05-a8bd7be6bb64?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1215,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/4d07f2de-702b-404a-a4e5-6a1115684b79?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1215,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/10a4b9aa-dc57-48c9-99cd-021e6f85f0cc?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1116,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/fb066afd-8fb5-4172-af06-835c458bed26?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1102,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/d8516852-49b9-4ee1-9d95-1ff981237c63?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1101,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/266b7c61-f75c-4aaa-adaf-4297f3be98f5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1039,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/5a596701-a803-4597-b578-d5078eb97045?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1215,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/6fca2cba-114e-4691-87a4-2bacce414d92?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1059,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          },
+          {
+            "url": "https://mall-i2.xhscdn.com/material_space/d78843c4-adfb-4e32-b5bc-acea1766f3d5?imageView2/2/w/1082/format/jpg/q/90&ap=3&sc=STR_DTL",
+            "thumbnail": null,
+            "width": 750,
+            "height": 1116,
+            "sizeBanner": null,
+            "cover": null,
+            "videoId": null,
+            "media": null,
+            "type": null
+          }
+        ],
+        "guide": null,
+        "sellerId": "63f5623238b04800018c7987",
+        "eventId": null
+      },
+      "skuOptions": [
+        {
+          "variantType": null,
+          "id": "60404e0de85df80001991224",
+          "name": "颜色分类",
+          "specBarTitle": null,
+          "isMainSpec": null,
+          "valuesExt": [],
+          "soldOutValues": [],
+          "values": [
+            "米黄色常规（有内衬）(156-164cm)",
+            "米黄色加长（有内衬）(165-175cm)",
+            "米黄小个子（有内衬）(155cm以下)",
+            "黑色常规(156-164cm)",
+            "黑色加长(165-175cm)",
+            "黑色小个子(155cm以下)",
+            "白色常规（有内衬）(156-164cm)",
+            "白色加长（有内衬）(165-175cm)",
+            "白色小个子（有内衬）(156cm以下)",
+            "水蓝色常规（有内衬）(156-164cm)",
+            "水蓝色加长（有内衬）(165-175cm)",
+            "水蓝色小个子（有内衬）(155cm以下)"
+          ],
+          "arrow": null
+        },
+        {
+          "variantType": null,
+          "id": "62abfa0505f3c9000115fc87",
+          "name": "尺码",
+          "specBarTitle": null,
+          "isMainSpec": null,
+          "valuesExt": [],
+          "soldOutValues": [],
+          "values": [
+            "XS(90斤以下)",
+            "M(100-110斤)",
+            "S(90-100斤)",
+            "XL(120-130斤)",
+            "2XL(130-145斤)",
+            "L(110-120斤)"
+          ],
+          "arrow": null
+        }
+      ],
+      "variantsParams": {
+        "title": "规格参数",
+        "list": [
+          {
+            "name": "商品名称",
+            "value": "亚麻垂感裤子女夏季轻薄宽松显瘦冰丝阔腿裤棉麻山本裤夏日休闲裤"
+          },
+          {
+            "name": "面料工艺",
+            "value": "褶皱"
+          },
+          {
+            "name": "款式",
+            "value": "阔腿,阔腿裤"
+          },
+          {
+            "name": "材质成分",
+            "value": "亚麻,再生纤维素纤维"
+          },
+          {
+            "name": "风格",
+            "value": "百搭,百搭风"
+          },
+          {
+            "name": "上市年份季节",
+            "value": "2026年夏季"
+          },
+          {
+            "name": "适用季节",
+            "value": "夏季"
+          },
+          {
+            "name": "裤门襟",
+            "value": "系绳"
+          },
+          {
+            "name": "服装版型",
+            "value": "宽松"
+          },
+          {
+            "name": "流行元素",
+            "value": "褶皱"
+          },
+          {
+            "name": "服装款式细节",
+            "value": "口袋,口袋装饰,多口袋"
+          },
+          {
+            "name": "适用年龄",
+            "value": "18-24周岁,25-29周岁,30-34周岁"
+          },
+          {
+            "name": "女裤腰高",
+            "value": "高腰"
+          },
+          {
+            "name": "厚薄",
+            "value": "薄款"
+          },
+          {
+            "name": "裤型",
+            "value": "阔腿裤"
+          },
+          {
+            "name": "女裤裤型",
+            "value": "阔腿裤"
+          },
+          {
+            "name": "面料",
+            "value": "麻"
+          },
+          {
+            "name": "裤长",
+            "value": "长裤"
+          }
+        ]
+      }
+    }
+  },
+  "balance": 99.99
+}

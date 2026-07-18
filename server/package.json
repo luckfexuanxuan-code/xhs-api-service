@@ -1,0 +1,22 @@
+{
+  "name": "xhs-api-server",
+  "version": "1.2.0",
+  "description": "XHS API Proxy Service - Node.js Backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "better-sqlite3": "^12.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "proper-lockfile": "^4.1.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

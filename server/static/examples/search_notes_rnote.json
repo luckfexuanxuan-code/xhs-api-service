@@ -1,0 +1,1502 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "data": {
+      "ai_mode_enable": false,
+      "request_dqa_instant": false,
+      "items": [
+        {
+          "mix_track_id": "NOTE__6916d621000000001b023a93__3602663e260e4b35__美食推荐",
+          "new_help_style": false,
+          "model_type": "note",
+          "note": {
+            "update_time": 1768985807000,
+            "corner_tag_info": [
+              {
+                "text_en": "",
+                "style": 0,
+                "icon": "",
+                "type": "ubt_sig_token",
+                "location": -1,
+                "text": "RAyJ+1aYXErgVEjlwnRFGn8mmXw9TecngmrO0Wiri7MVytPNwVVBO5ccyOxEF8feNoBeyEGtgaeNUQFy1ApkUhLn9nANiLpAkT"
+              },
+              {
+                "text_en": "01-21",
+                "style": 0,
+                "icon": "http://picasso-static.xiaohongshu.com/fe-platform/e9b67af62f67d9d6cfac936f96ad10a85fdb868e.png",
+                "type": "publish_time",
+                "location": 5,
+                "text": "01-21"
+              }
+            ],
+            "id": "6916d621000000001b023a93",
+            "extract_text_enabled": 0,
+            "last_update_time": 1768985757,
+            "cover_image_index": 0,
+            "advanced_widgets_groups": {
+              "groups": [
+                {
+                  "mode": 1,
+                  "fetch_types": [
+                    "guos_test",
+                    "note_next_step",
+                    "second_jump_bar",
+                    "note_collection",
+                    "cooperate_binds",
+                    "rec_next_infos",
+                    "video_marks",
+                    "product_review",
+                    "related_search",
+                    "video_goods_cards",
+                    "cooperate_comment_component",
+                    "ads_goods_cards",
+                    "ads_comment_component",
+                    "goods_card_v2",
+                    "video_recommend_tag",
+                    "buyable_goods_card_v2",
+                    "cooperate_search_component",
+                    "ads_engage_bar",
+                    "challenge_card",
+                    "cooperate_engage_bar",
+                    "pgy_comment_component",
+                    "pgy_engage_bar",
+                    "related_recommend",
+                    "next_note_guide",
+                    "widgets_ndb",
+                    "pgy_bbc_exp",
+                    "brand_max_trailer",
+                    "super_activity",
+                    "note_nice_guide",
+                    "pin_search_highlights",
+                    "widgets_enhance",
+                    "packed_goods",
+                    "packed_buyable_goods",
+                    "widgets_ncb",
+                    "note_nice_compound",
+                    "live_shooting_flag",
+                    "widgets_nbb",
+                    "poi_declare",
+                    "async_group"
+                  ]
+                },
+                {
+                  "mode": 0,
+                  "fetch_types": [
+                    "guos_test",
+                    "vote_stickers",
+                    "bullet_comment_lead",
+                    "note_search_box",
+                    "interact_pk",
+                    "interact_vote",
+                    "guide_heuristic",
+                    "guide_post",
+                    "video_foot_bar",
+                    "follow_guide",
+                    "share_to_msg",
+                    "note_share_prompt_v1",
+                    "note_share_prompt_v2",
+                    "group_share",
+                    "share_guide_bubble",
+                    "goods_enhance_component",
+                    "guide_navigator",
+                    "sync_group"
+                  ]
+                }
+              ]
+            },
+            "has_music": false,
+            "type": "video",
+            "tag_info": {
+              "title": "",
+              "type": ""
+            },
+            "collected_count": 13813,
+            "user": {
+              "red_id": "27735991816",
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bn0barpgu0049v5sg5hovj9gmj9m20?imageView2/2/w/80/format/jpg",
+              "red_official_verified": false,
+              "nickname": "口里无味",
+              "red_official_verify_type": 0,
+              "show_red_official_verify_icon": false,
+              "userid": "59fd4b1ce8ac2b5f0dbe7e69",
+              "track_duration": 0,
+              "followed": false
+            },
+            "niced": false,
+            "shared_count": 3659,
+            "comments_count": 279,
+            "video_duration": "1:33",
+            "liked": false,
+            "widgets_context": "{\"video\":true,\"origin_video_key\":\"pre_post/1040g2t031orvfl2n1kl049v5sg5hovj9lf08tg0\",\"flags\":{\"sound_track\":true},\"author_id\":\"59fd4b1ce8ac2b5f0dbe7e69\",\"author_name\":\"口里无味\",\"video_duration\":93}",
+            "nice_count": 0,
+            "debug_info_str": "",
+            "note_attributes": [],
+            "video_info_v2": {
+              "capa": {
+                "is_user_select": false,
+                "is_upload": false,
+                "frame_ts": 0,
+                "duration": 93
+              },
+              "consumer": {
+                "can_super_resolution": false
+              },
+              "image": {
+                "thumbnail": "https://sns-na-i11.xhscdn.com/frame/110/0/01e916d44725c9590010000000019a8134fb4b_0.webp?imageView2/2/w/5000/h/5000/format/webp/q/90&ap=5&sc=SRH_ORG&sign=c0ac61be285ffad42ac6085e5f671ac1&t=6a3b969e&origin=0",
+                "thumbnail_dim": "https://sns-na-i11.xhscdn.com/frame/110/0/01e916d44725c9590010000000019a8134fb4b_0.webp?imageView2/2/w/720/h/720/format/webp&ap=5&sc=SRH_SPRT&sign=c0ac61be285ffad42ac6085e5f671ac1&t=6a3b969e&origin=0",
+                "first_frame": "https://sns-na-i11.xhscdn.com/110/0/01e916d44725c9590010000000019a81347a09_0.jpg?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=a71e86e001239b821e1357554105d356&t=6a3b969e&origin=0"
+              },
+              "media": {
+                "user_level": 0,
+                "video": {
+                  "height": 3840,
+                  "biz_id": "281781560627051155",
+                  "stream_types": [
+                    258,
+                    178,
+                    179,
+                    180,
+                    108,
+                    77
+                  ],
+                  "bound": [
+                    {
+                      "y": 0,
+                      "w": 0,
+                      "x": 0,
+                      "h": 0
+                    }
+                  ],
+                  "md5": "8224e2765c95d82ccf53b9d848177755",
+                  "width": 2160,
+                  "duration": 94,
+                  "opaque1": {
+                    "loudnorm": "{\"lra\":25.0,\"htp\":-0.25,\"hldn\":-15.84,\"ldn\":-19.95,\"thr\":-33.61}",
+                    "hd_screencast_stream": "http://sns-video-zl.xhscdn.com/stream/1/110/179/01e916d44725c959010370019a82a2f4b8_179.mp4?sign=ec3cf1f18fce15dbac2f42c316763ecb&t=6a4033de",
+                    "bottomAvgLuma": "124",
+                    "hasHumanVoice": "true",
+                    "audioClsInfo": "{\"music_ratio\":0.46354838211238303,\"freesound_ratio\":0.6673118207815933,\"speech_ratio\":0.09806451507457511}",
+                    "amend_4k": "1",
+                    "rightAvgLuma": "113",
+                    "weakNetUserFlag": "1",
+                    "audioLevInfo": "{\"audio_quality_level\":\"F+\",\"mos_overall\":2.6095,\"version\":\"3.0\"}",
+                    "domestic": "0",
+                    "insertSubtitleLanguages": "[\"zh-CN\"]",
+                    "videoLanguage": "[\"zh-CN\"]",
+                    "default_screencast_stream": "http://sns-video-zl.xhscdn.com/stream/79/110/258/01e916d44725c9594f0370019a813580d5_258.mp4?sign=b97a3df7986bfce53040587c42d14266&t=6a4033de",
+                    "amend": "18",
+                    "amend_2k": "26",
+                    "isSupportSubtitle": "true",
+                    "amend_mobile": "40",
+                    "topAvgLuma": "107"
+                  },
+                  "biz_name": 110,
+                  "drm_type": 0,
+                  "hdr_type": 0
+                },
+                "stream": {
+                  "h265": [
+                    {
+                      "audio_bitrate": 64084,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/178/01e916d44725c959010370019a82a41cc2_178.mp4?sign=6bb975f5c52ec0d7de256cfb17a9ef66&t=6a4033de",
+                      "stream_type": 178,
+                      "weight": 46,
+                      "volume": 0,
+                      "video_duration": 93018,
+                      "duration": 93019,
+                      "vmaf": -1,
+                      "psnr": 39.946998596191406,
+                      "audio_channels": 2,
+                      "video_codec": "hevc",
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/178/01e916d44725c959010370019a82a41cc2_178.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/178/01e916d44725c959010370019a82a41cc2_178.mp4"
+                      ],
+                      "default_stream": 1,
+                      "video_bitrate": 1598458,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "quality_grade_fallback": "720P",
+                        "roiWeight": "76.88091114984375",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"79.27859814984376\"}",
+                        "pcdn_supplier": "",
+                        "quality_grade_fallback_with_desc": "720p HD"
+                      },
+                      "fps": 58,
+                      "size": 19484604,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "token": "",
+                      "format": "mp4",
+                      "sr": 0,
+                      "height": 1280,
+                      "audio_duration": 93017,
+                      "width": 720,
+                      "quality_type": "HD",
+                      "stream_desc": "R265_MP4_720P_178_IOS",
+                      "avg_bitrate": 1675752,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 64084,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/179/01e916d44725c959010370019a82a2f4b8_179.mp4?sign=ec3cf1f18fce15dbac2f42c316763ecb&t=6a4033de",
+                      "weight": 47,
+                      "stream_type": 179,
+                      "video_duration": 93018,
+                      "volume": 0,
+                      "duration": 93019,
+                      "vmaf": -1,
+                      "psnr": 41.125999450683594,
+                      "audio_channels": 2,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/179/01e916d44725c959010370019a82a2f4b8_179.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/179/01e916d44725c959010370019a82a2f4b8_179.mp4"
+                      ],
+                      "video_codec": "hevc",
+                      "default_stream": 0,
+                      "video_bitrate": 2742777,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "roiWeight": "82.559156424375",
+                        "quality_grade_fallback": "1080P",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"86.673321924375\"}",
+                        "pcdn_supplier": "",
+                        "quality_grade_fallback_with_desc": "1080p HD"
+                      },
+                      "fps": 58,
+                      "size": 32789982,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "token": "",
+                      "sr": 0,
+                      "height": 1920,
+                      "audio_duration": 93017,
+                      "stream_desc": "R265_MP4_1080P_179_IOS_low",
+                      "quality_type": "FHD",
+                      "width": 1080,
+                      "avg_bitrate": 2820067,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 64084,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/180/01e916d44725c959010370019a8293ba80_180.mp4?sign=43d37d2afdb498cff6509a3672920637&t=6a4033de",
+                      "stream_type": 180,
+                      "weight": 48,
+                      "video_duration": 93018,
+                      "volume": 0,
+                      "duration": 93019,
+                      "vmaf": -1,
+                      "psnr": 41.3650016784668,
+                      "audio_channels": 2,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/180/01e916d44725c959010370019a8293ba80_180.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/180/01e916d44725c959010370019a8293ba80_180.mp4"
+                      ],
+                      "default_stream": 0,
+                      "video_codec": "hevc",
+                      "video_bitrate": 2902284,
+                      "fps": 58,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "roiWeight": "82.73670601234376",
+                        "quality_grade_fallback": "1080P",
+                        "pcdn_supplier": "",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"87.09013201234376\"}",
+                        "quality_grade_fallback_with_desc": "1080p HD"
+                      },
+                      "size": 34644623,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "token": "",
+                      "sr": 0,
+                      "stream_desc": "R265_MP4_1080P_180_IOS_high",
+                      "height": 1920,
+                      "audio_duration": 93017,
+                      "quality_type": "FHD",
+                      "width": 1080,
+                      "avg_bitrate": 2979573,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 128030,
+                      "stream_type": 108,
+                      "weight": 49,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/108/01e916d44725c959010370019a824ff901_108.mp4?sign=a9e577f378340f2bd111d49e942aea13&t=6a4033de",
+                      "volume": 0,
+                      "video_duration": 93018,
+                      "duration": 93044,
+                      "vmaf": -1,
+                      "psnr": 41.702999114990234,
+                      "audio_channels": 2,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/108/01e916d44725c959010370019a824ff901_108.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/108/01e916d44725c959010370019a824ff901_108.mp4"
+                      ],
+                      "default_stream": 0,
+                      "video_codec": "hevc",
+                      "video_bitrate": 4471200,
+                      "fps": 58,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "roiWeight": "82.19897487749999",
+                        "quality_grade_fallback": "2K",
+                        "pcdn_supplier": "",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"88.9057748775\"}",
+                        "quality_grade_fallback_with_desc": "2K Ultra HD"
+                      },
+                      "size": 53583600,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "token": "",
+                      "format": "mp4",
+                      "sr": 0,
+                      "audio_duration": 93043,
+                      "height": 2560,
+                      "width": 1440,
+                      "stream_desc": "R265_MP4_2K4K_108_IOS_xf",
+                      "quality_type": "2K",
+                      "avg_bitrate": 4607162,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 128193,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/77/01e916d44725c959010370019a8137d647_77.mp4?sign=263b1a5249175c7a0c3ee7a1adadb343&t=6a4033de",
+                      "weight": 50,
+                      "stream_type": 77,
+                      "volume": 0,
+                      "video_duration": 93035,
+                      "duration": 93036,
+                      "vmaf": -1,
+                      "psnr": 42.95800018310547,
+                      "audio_channels": 2,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/77/01e916d44725c959010370019a8137d647_77.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/77/01e916d44725c959010370019a8137d647_77.mp4"
+                      ],
+                      "default_stream": 0,
+                      "video_codec": "hevc",
+                      "video_bitrate": 6791472,
+                      "fps": 56,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "0",
+                        "didLoudnorm": "false",
+                        "roiWeight": "81.31026956392063",
+                        "quality_grade_fallback": "4K",
+                        "pcdn_supplier": "",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"91.49747756392063\"}",
+                        "quality_grade_fallback_with_desc": "4K Ultra HD"
+                      },
+                      "size": 80597450,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "token": "",
+                      "format": "mp4",
+                      "sr": 0,
+                      "stream_desc": "R265_MP4_2K4K_77_IOS_2tab",
+                      "audio_duration": 93017,
+                      "width": 2160,
+                      "quality_type": "4K",
+                      "height": 3840,
+                      "avg_bitrate": 6930431,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    }
+                  ],
+                  "h266": [],
+                  "h264": [
+                    {
+                      "audio_bitrate": 56085,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/79/110/258/01e916d44725c9594f0370019a813580d5_258.mp4?sign=b97a3df7986bfce53040587c42d14266&t=6a4033de",
+                      "stream_type": 258,
+                      "weight": 45,
+                      "video_duration": 93066,
+                      "volume": 0,
+                      "duration": 93067,
+                      "vmaf": -1,
+                      "psnr": 0,
+                      "audio_channels": 2,
+                      "video_codec": "h264",
+                      "default_stream": 0,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/79/110/258/01e916d44725c9594f0370019a813580d5_258.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/79/110/258/01e916d44725c9594f0370019a813580d5_258.mp4"
+                      ],
+                      "video_bitrate": 3123496,
+                      "fps": 30,
+                      "opaque1": {
+                        "didLoudnorm": "false",
+                        "quality_grade_fallback_with_desc": "720p HD",
+                        "quality_grade_fallback": "720P",
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "0",
+                        "pcdn_supplier": ""
+                      },
+                      "size": 37067013,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "token": "",
+                      "format": "mp4",
+                      "sr": 0,
+                      "height": 1280,
+                      "stream_desc": "X264_MP4",
+                      "width": 720,
+                      "quality_type": "HD",
+                      "audio_duration": 93017,
+                      "avg_bitrate": 3186264,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    }
+                  ],
+                  "av1": []
+                },
+                "video_id": 137666364594047330
+              }
+            },
+            "result_from": "",
+            "liked_count": 27379,
+            "click_score": 0.17096558213233948,
+            "collected": false,
+            "xsec_token": "YBojQ7hTQKC-UlgKJRhRGwrCqXCumcNaT8yKksSHhQJi4=",
+            "desc": "有段时间没怎么做面了，一直在尝试不同的小食，不亦乐乎。这���想起来做面，着实是因为看了百厨大战被大大馋到了。 经常性地会觉",
+            "interaction_area": {
+              "type": 1,
+              "status": false,
+              "text": "27379"
+            },
+            "images_list": [
+              {
+                "fileid": "1040g2sg31orvfl2o1q7049v5sg5hovj93eqm5to",
+                "height": 1903,
+                "url": "https://sns-na-i11.xhscdn.com/1040g2sg31orvfl2o1q7049v5sg5hovj93eqm5to?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=1a4a35965a3e71982df0ae87193b29a2&t=6a3b969e&origin=0",
+                "width": 1427,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/1040g2sg31orvfl2o1q7049v5sg5hovj93eqm5to?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=1a4a35965a3e71982df0ae87193b29a2&t=6a3b969e&origin=0",
+                "trace_id": "1040g2sg31orvfl2o1q7049v5sg5hovj93eqm5to",
+                "need_load_original_image": false
+              }
+            ],
+            "title": "🍜大嗦一口！🍅台式红烧牛肉面🥩+🍻番茄啤酒",
+            "geo_info": {
+              "distance": ""
+            },
+            "timestamp": 1763119818
+          }
+        },
+        {
+          "mix_track_id": "PUGONGYING__69b8e9590000000023026f78__3602663e260e4b35__美食推荐",
+          "new_help_style": false,
+          "model_type": "note",
+          "note": {
+            "last_update_time": 1773925482,
+            "geo_info": {
+              "distance": ""
+            },
+            "liked": false,
+            "title": "排队188分钟终于吃上了。。。。",
+            "click_score": 0.05915555730462074,
+            "result_from": "",
+            "collected_count": 358,
+            "collected": false,
+            "nice_count": 0,
+            "comments_count": 18,
+            "niced": false,
+            "cover_image_index": 0,
+            "tag_info": {
+              "title": "",
+              "type": ""
+            },
+            "images_list": [
+              {
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i50414vcvkhrchubcasgdo",
+                "need_load_original_image": false,
+                "height": 1816,
+                "live_photo_file_id": "livephoto_pre_post/1040g3jo31tq7turl6ibg414vcvkhrchurotptb0",
+                "width": 1362,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i50414vcvkhrchubcasgdo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=851e1eeab9e4e15c09326e5f22aaf221&t=6a3b969e&origin=0",
+                "live_photo": {
+                  "media": {
+                    "userLevel": 0,
+                    "video": {
+                      "height": 1816,
+                      "biz_id": "281959764056764280",
+                      "bound": [
+                        {
+                          "y": 0,
+                          "w": 1362,
+                          "x": 0,
+                          "h": 1816
+                        }
+                      ],
+                      "stream_types": [
+                        281,
+                        66
+                      ],
+                      "width": 1362,
+                      "duration": 1,
+                      "opaque1": {
+                        "domestic": "0",
+                        "livephoto_flag": "1",
+                        "amend_mobile": "40",
+                        "amend": "9",
+                        "amend_non_5g": "20",
+                        "weakNetUserFlag": "1"
+                      },
+                      "drm_type": 0,
+                      "biz_name": 10,
+                      "hdr_type": 0
+                    },
+                    "stream": {
+                      "h265": [
+                        {
+                          "audio_bitrate": 77735,
+                          "master_url": "http://sns-video-zl.xhscdn.com/stream/1/10/281/01e9b8e8d420d33a010050019d07646f98_281.mp4?sign=d69d6058eaba975a831421c10c1f4339&t=6a4033de",
+                          "weight": 60,
+                          "stream_type": 281,
+                          "volume": 0,
+                          "video_duration": 579,
+                          "duration": 580,
+                          "vmaf": -1,
+                          "psnr": 37.29999923706055,
+                          "video_codec": "hevc",
+                          "backup_urls": [
+                            "http://sns-bak-v8.xhscdn.com/stream/1/10/281/01e9b8e8d420d33a010050019d07646f98_281.mp4",
+                            "http://sns-bak-v10.xhscdn.com/stream/1/10/281/01e9b8e8d420d33a010050019d07646f98_281.mp4"
+                          ],
+                          "audio_channels": 2,
+                          "default_stream": 1,
+                          "video_bitrate": 3684911,
+                          "fps": 17,
+                          "opaque1": {
+                            "amend": "0",
+                            "didLoudnorm": "false",
+                            "has_soundtrack": "1",
+                            "pcdn_302_flag": "false",
+                            "use_pcdn": "0",
+                            "pcdn_supplier": ""
+                          },
+                          "size": 274048,
+                          "audio_codec": "aac",
+                          "rotate": 0,
+                          "format": "mp4",
+                          "sr": 0,
+                          "stream_desc": "livephoto_r256_1080p_281_ios",
+                          "height": 1440,
+                          "width": 1080,
+                          "quality_type": "FHD",
+                          "hdrType": 0,
+                          "audio_duration": 516,
+                          "avg_bitrate": 3779972,
+                          "ssim": 0
+                        },
+                        {
+                          "audio_bitrate": 77735,
+                          "master_url": "http://sns-video-zl.xhscdn.com/stream/1/10/66/01e9b8e8d420d33a010050019d0632e54c_66.mp4?sign=f1094f5900b0c3cf62faf6b955e5e522&t=6a4033de",
+                          "stream_type": 66,
+                          "weight": 66,
+                          "video_duration": 579,
+                          "volume": 0,
+                          "duration": 580,
+                          "vmaf": -1,
+                          "psnr": 38.487998962402344,
+                          "video_codec": "hevc",
+                          "audio_channels": 2,
+                          "default_stream": 1,
+                          "backup_urls": [
+                            "http://sns-bak-v8.xhscdn.com/stream/1/10/66/01e9b8e8d420d33a010050019d0632e54c_66.mp4",
+                            "http://sns-bak-v10.xhscdn.com/stream/1/10/66/01e9b8e8d420d33a010050019d0632e54c_66.mp4"
+                          ],
+                          "video_bitrate": 4857743,
+                          "opaque1": {
+                            "didLoudnorm": "false",
+                            "amend": "0",
+                            "has_soundtrack": "1",
+                            "pcdn_302_flag": "false",
+                            "use_pcdn": "0",
+                            "pcdn_supplier": ""
+                          },
+                          "fps": 17,
+                          "size": 359033,
+                          "audio_codec": "aac",
+                          "rotate": 0,
+                          "format": "mp4",
+                          "sr": 0,
+                          "audio_duration": 516,
+                          "stream_desc": "livephoto_r256_1080p_66_ios",
+                          "width": 1080,
+                          "quality_type": "FHD",
+                          "hdrType": 0,
+                          "height": 1440,
+                          "avg_bitrate": 4952179,
+                          "ssim": 0
+                        }
+                      ],
+                      "h266": [],
+                      "h264": [],
+                      "av1": []
+                    },
+                    "video_id": 137844573742355260
+                  }
+                },
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i50414vcvkhrchubcasgdo",
+                "url": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i50414vcvkhrchubcasgdo?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=851e1eeab9e4e15c09326e5f22aaf221&t=6a3b969e&origin=0"
+              },
+              {
+                "height": 1920,
+                "need_load_original_image": false,
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i0g414vcvkhrchuurv45k8",
+                "width": 1440,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i0g414vcvkhrchuurv45k8?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=2a281e4cf3702aad1480782afb54e1ee&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i0g414vcvkhrchuurv45k8",
+                "url": ""
+              },
+              {
+                "need_load_original_image": false,
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i20414vcvkhrchu9j70olg",
+                "height": 1920,
+                "width": 1440,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i20414vcvkhrchu9j70olg?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=1d1f025972b5c54663ef8384c5223150&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i20414vcvkhrchu9j70olg",
+                "url": ""
+              },
+              {
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i10414vcvkhrchudeopc48",
+                "height": 1813,
+                "url": "",
+                "width": 1360,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i10414vcvkhrchudeopc48?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=080f0a2cd7ee6fd43c754f30388ef4de&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i10414vcvkhrchudeopc48",
+                "need_load_original_image": false
+              },
+              {
+                "height": 1920,
+                "need_load_original_image": false,
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i1g414vcvkhrchu267ro9g",
+                "width": 1440,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i1g414vcvkhrchu267ro9g?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=1143d67fa0d12df69ec663d20fd69c15&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i1g414vcvkhrchu267ro9g",
+                "url": ""
+              },
+              {
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i2g414vcvkhrchubqnn7dg",
+                "height": 1920,
+                "need_load_original_image": false,
+                "width": 1440,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i2g414vcvkhrchubqnn7dg?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=57838581ad271b33da47202fc2ed847f&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i2g414vcvkhrchubqnn7dg",
+                "url": ""
+              },
+              {
+                "need_load_original_image": false,
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i30414vcvkhrchu4kcjbho",
+                "height": 1920,
+                "width": 1440,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i30414vcvkhrchu4kcjbho?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=452320ac9972386ddcf325cdab8ad9cc&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i30414vcvkhrchu4kcjbho",
+                "url": ""
+              },
+              {
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i3g414vcvkhrchu5d7vcu8",
+                "height": 1920,
+                "url": "",
+                "width": 1440,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i3g414vcvkhrchu5d7vcu8?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=65e116b0b37f36e494cadc066abc2f9f&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i3g414vcvkhrchu5d7vcu8",
+                "need_load_original_image": false
+              },
+              {
+                "fileid": "notes_uhdr/1040g3qo31tqc36so6o00414vcvkhrchuiei8fjo",
+                "height": 2560,
+                "url": "",
+                "width": 1920,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_uhdr/1040g3qo31tqc36so6o00414vcvkhrchuiei8fjo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=6e5bd52b1e972e1b86c8210d0afc6bf7&t=6a3b969e&origin=0",
+                "trace_id": "notes_uhdr/1040g3qo31tqc36so6o00414vcvkhrchuiei8fjo",
+                "need_load_original_image": false
+              },
+              {
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i40414vcvkhrchu520t5lo",
+                "height": 1735,
+                "url": "",
+                "width": 1301,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i40414vcvkhrchu520t5lo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=e50a6da4c6a1e88e233173f5f8995543&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i40414vcvkhrchu520t5lo",
+                "need_load_original_image": false
+              },
+              {
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i4g414vcvkhrchug4glqho",
+                "height": 1811,
+                "need_load_original_image": false,
+                "width": 1358,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i4g414vcvkhrchug4glqho?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=d23c6e8b979d528f15514e40eaf232d0&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i4g414vcvkhrchug4glqho",
+                "url": ""
+              },
+              {
+                "fileid": "note_pre_post_uhdr/1040g3r831tq8lb0r6qe0414vcvkhrchuare7tdo",
+                "height": 2560,
+                "url": "",
+                "width": 1920,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/note_pre_post_uhdr/1040g3r831tq8lb0r6qe0414vcvkhrchuare7tdo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=b8f4b4bf1f28f5fdc690dcf2b2e15e8b&t=6a3b969e&origin=0",
+                "trace_id": "note_pre_post_uhdr/1040g3r831tq8lb0r6qe0414vcvkhrchuare7tdo",
+                "need_load_original_image": false
+              },
+              {
+                "fileid": "notes_uhdr/1040g3qo31tqc36so6o0g414vcvkhrchuefmh3rg",
+                "height": 2560,
+                "url": "",
+                "width": 1920,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_uhdr/1040g3qo31tqc36so6o0g414vcvkhrchuefmh3rg?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=93b49cdb90928719b2906e1a39426579&t=6a3b969e&origin=0",
+                "trace_id": "notes_uhdr/1040g3qo31tqc36so6o0g414vcvkhrchuefmh3rg",
+                "need_load_original_image": false
+              },
+              {
+                "need_load_original_image": false,
+                "fileid": "notes_pre_post/1040g3k831tq7turj6i00414vcvkhrchupct5238",
+                "height": 1572,
+                "width": 1179,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k831tq7turj6i00414vcvkhrchupct5238?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=fbc0365b49b85d87386d18cbade6b253&t=6a3b969e&origin=0",
+                "trace_id": "notes_pre_post/1040g3k831tq7turj6i00414vcvkhrchupct5238",
+                "url": ""
+              }
+            ],
+            "note_attributes": [],
+            "type": "normal",
+            "user": {
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/611c937b71ae97cc66eb46e9.jpg?imageView2/2/w/80/format/jpg",
+              "red_official_verified": false,
+              "userid": "55e5a91d3397db29780eb23e",
+              "show_red_official_verify_icon": false,
+              "track_duration": 0,
+              "followed": false,
+              "red_id": "109358467",
+              "nickname": "史迪酱",
+              "red_official_verify_type": 0
+            },
+            "corner_tag_info": [
+              {
+                "text_en": "",
+                "style": 0,
+                "icon": "",
+                "type": "ubt_sig_token",
+                "location": -1,
+                "text": "RALoHRhgN/TELSkNxiq+JuP/dzURU2m10wKcCdYEeOxEwFYzVTWxA6q/5g+ouzBU9aZz54JgyTlI+0wahcOoEa2RQ78eiD0JMm"
+              },
+              {
+                "text_en": "03-19",
+                "style": 0,
+                "icon": "http://picasso-static.xiaohongshu.com/fe-platform/e9b67af62f67d9d6cfac936f96ad10a85fdb868e.png",
+                "type": "publish_time",
+                "location": 5,
+                "text": "03-19"
+              }
+            ],
+            "id": "69b8e9590000000023026f78",
+            "timestamp": 1773729752,
+            "extract_text_enabled": 0,
+            "interaction_area": {
+              "type": 1,
+              "status": false,
+              "text": "1063"
+            },
+            "xsec_token": "YBgPUOJjsWrywMPg39HLb79ffu-PNewmAZVNaPuFp5pb0=",
+            "widgets_context": "{\"flags\":{},\"author_id\":\"55e5a91d3397db29780eb23e\",\"author_name\":\"史迪酱\",\"order_cooperate\":true,\"commercial_bridge_note\":true}",
+            "liked_count": 1063,
+            "update_time": 1773925596000,
+            "desc": "网评最好吃的火锅店，也是今天给我吃上了 果然网友诚不欺我😭没有照骗，是跟菜单一样的！ 🫕锅底：盲点奔驰锅！一次性就能",
+            "debug_info_str": "",
+            "shared_count": 196,
+            "advanced_widgets_groups": {
+              "groups": [
+                {
+                  "mode": 1,
+                  "fetch_types": [
+                    "guos_test",
+                    "note_next_step",
+                    "second_jump_bar",
+                    "cooperate_binds",
+                    "note_collection",
+                    "rec_next_infos",
+                    "image_stickers",
+                    "image_filters",
+                    "product_review",
+                    "related_search",
+                    "cooperate_comment_component",
+                    "image_goods_cards",
+                    "ads_goods_cards",
+                    "ads_comment_component",
+                    "goods_card_v2",
+                    "image_template",
+                    "buyable_goods_card_v2",
+                    "ads_engage_bar",
+                    "challenge_card",
+                    "cooperate_engage_bar",
+                    "guide_post",
+                    "pgy_comment_component",
+                    "pgy_engage_bar",
+                    "bar_below_image",
+                    "aigc_collection",
+                    "co_produce",
+                    "widgets_ndb",
+                    "next_note_guide",
+                    "pgy_bbc_exp",
+                    "async_group",
+                    "super_activity",
+                    "widgets_enhance",
+                    "music_player",
+                    "soundtrack_player"
+                  ]
+                },
+                {
+                  "mode": 0,
+                  "fetch_types": [
+                    "guos_test",
+                    "vote_stickers",
+                    "bullet_comment_lead",
+                    "note_search_box",
+                    "interact_pk",
+                    "interact_vote",
+                    "guide_heuristic",
+                    "share_to_msg",
+                    "follow_guide",
+                    "note_share_prompt_v1",
+                    "sync_group",
+                    "group_share",
+                    "share_guide_bubble",
+                    "widgets_share",
+                    "guide_navigator"
+                  ]
+                }
+              ]
+            },
+            "has_music": false
+          }
+        },
+        {
+          "mix_track_id": "NOTE__6a006fe7000000003701fa36__3602663e260e4b35__美食推荐",
+          "new_help_style": false,
+          "note": {
+            "update_time": 1778718501000,
+            "corner_tag_info": [
+              {
+                "text_en": "",
+                "icon": "",
+                "style": 0,
+                "type": "ubt_sig_token",
+                "location": -1,
+                "text": "RAIQCB0EcsSOjAcyJ7QDCJxw9UIsD3Kl0Pdi30wD0DXuw1mkYGlSC4A7KpyWjP/cj+VOAyBqDToH+b2Ycjp+6sv6SEaDBDhUn9"
+              },
+              {
+                "text_en": "05-10",
+                "style": 0,
+                "icon": "http://picasso-static.xiaohongshu.com/fe-platform/e9b67af62f67d9d6cfac936f96ad10a85fdb868e.png",
+                "type": "publish_time",
+                "location": 5,
+                "text": "05-10"
+              }
+            ],
+            "last_update_time": 0,
+            "id": "6a006fe7000000003701fa36",
+            "extract_text_enabled": 0,
+            "cover_image_index": 0,
+            "advanced_widgets_groups": {
+              "groups": [
+                {
+                  "mode": 1,
+                  "fetch_types": [
+                    "guos_test",
+                    "note_next_step",
+                    "second_jump_bar",
+                    "note_collection",
+                    "cooperate_binds",
+                    "rec_next_infos",
+                    "video_marks",
+                    "product_review",
+                    "related_search",
+                    "video_goods_cards",
+                    "cooperate_comment_component",
+                    "ads_goods_cards",
+                    "ads_comment_component",
+                    "goods_card_v2",
+                    "video_recommend_tag",
+                    "buyable_goods_card_v2",
+                    "cooperate_search_component",
+                    "ads_engage_bar",
+                    "challenge_card",
+                    "cooperate_engage_bar",
+                    "pgy_comment_component",
+                    "pgy_engage_bar",
+                    "related_recommend",
+                    "next_note_guide",
+                    "widgets_ndb",
+                    "pgy_bbc_exp",
+                    "brand_max_trailer",
+                    "super_activity",
+                    "note_nice_guide",
+                    "pin_search_highlights",
+                    "widgets_enhance",
+                    "packed_goods",
+                    "packed_buyable_goods",
+                    "widgets_ncb",
+                    "note_nice_compound",
+                    "live_shooting_flag",
+                    "widgets_nbb",
+                    "poi_declare",
+                    "async_group"
+                  ]
+                },
+                {
+                  "mode": 0,
+                  "fetch_types": [
+                    "guos_test",
+                    "vote_stickers",
+                    "bullet_comment_lead",
+                    "note_search_box",
+                    "interact_pk",
+                    "interact_vote",
+                    "guide_heuristic",
+                    "guide_post",
+                    "video_foot_bar",
+                    "follow_guide",
+                    "share_to_msg",
+                    "note_share_prompt_v1",
+                    "note_share_prompt_v2",
+                    "group_share",
+                    "share_guide_bubble",
+                    "goods_enhance_component",
+                    "guide_navigator",
+                    "sync_group"
+                  ]
+                }
+              ]
+            },
+            "has_music": false,
+            "type": "video",
+            "tag_info": {
+              "title": "",
+              "type": ""
+            },
+            "collected_count": 9215,
+            "niced": false,
+            "user": {
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iv4mh0h1e004a2c93ga6fidqj8bh8o?imageView2/2/w/80/format/jpg",
+              "red_official_verified": false,
+              "track_duration": 0,
+              "nickname": "Yuki闪闪",
+              "followed": false,
+              "userid": "5a92e0a311be105bf4b23e4d",
+              "red_id": "Yukissmy",
+              "red_official_verify_type": 0,
+              "show_red_official_verify_icon": false
+            },
+            "shared_count": 2361,
+            "comments_count": 445,
+            "video_duration": "0:08",
+            "liked": false,
+            "widgets_context": "{\"video\":true,\"origin_video_key\":\"pre_post/1040g0cg32003mpnf2q0g4a2c93ga6fidrpqpuh8\",\"flags\":{\"sound_track\":true},\"author_id\":\"5a92e0a311be105bf4b23e4d\",\"author_name\":\"Yuki闪闪\",\"video_duration\":8}",
+            "debug_info_str": "",
+            "nice_count": 0,
+            "note_attributes": [],
+            "video_info_v2": {
+              "capa": {
+                "is_user_select": false,
+                "is_upload": false,
+                "frame_ts": 0,
+                "duration": 8
+              },
+              "consumer": {
+                "can_super_resolution": false
+              },
+              "image": {
+                "thumbnail": "https://sns-na-i11.xhscdn.com/frame/110/0/01ea006fc9171bd20010000000019e11b7b06a_0.webp?imageView2/2/w/5000/h/5000/format/webp/q/90&ap=5&sc=SRH_ORG&sign=4427ada3455bc716abb8c2fb37b4c046&t=6a3b969e&origin=0",
+                "thumbnail_dim": "https://sns-na-i11.xhscdn.com/frame/110/0/01ea006fc9171bd20010000000019e11b7b06a_0.webp?imageView2/2/w/720/h/720/format/webp&ap=5&sc=SRH_SPRT&sign=4427ada3455bc716abb8c2fb37b4c046&t=6a3b969e&origin=0",
+                "first_frame": "https://sns-na-i11.xhscdn.com/110/0/01ea006fc9171bd20010000000019e11b53dea_0.jpg?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=ebb83cc6e1957038f8dd36fbc478b503&t=6a3b969e&origin=0"
+              },
+              "media": {
+                "user_level": 0,
+                "video": {
+                  "biz_id": "282038407295531574",
+                  "height": 3840,
+                  "stream_types": [
+                    258,
+                    293,
+                    294,
+                    295,
+                    240,
+                    77
+                  ],
+                  "md5": "67d4b104e10d931ab21e3e002b8bde10",
+                  "bound": [
+                    {
+                      "y": 0,
+                      "w": 0,
+                      "x": 0,
+                      "h": 0
+                    }
+                  ],
+                  "width": 2160,
+                  "duration": 9,
+                  "opaque1": {
+                    "loudnorm": "{\"lra\":3.1,\"htp\":-14.92,\"hldn\":-30.08,\"ldn\":-30.08,\"thr\":-40.08}",
+                    "hasHumanVoice": "false",
+                    "hd_screencast_stream": "http://sns-video-zl.xhscdn.com/stream/1/110/115/01ea006fc9171bd2010370019e11b645bd_115.mp4?sign=58d06f9451d1d76f155ab5a1db7723cf&t=6a4033de",
+                    "audioClsInfo": "{\"music_ratio\":0.0,\"freesound_ratio\":0.8108106115944443,\"speech_ratio\":0.34643726131762625}",
+                    "amend_4k": "1",
+                    "rightAvgLuma": "154",
+                    "weakNetUserFlag": "1",
+                    "audioLevInfo": "{\"version\":\"3.0\"}",
+                    "domestic": "0",
+                    "bottomAvgLuma": "165",
+                    "amend": "18",
+                    "default_screencast_stream": "http://sns-video-zl.xhscdn.com/stream/1/110/258/01ea006fc9171bd2010370019e11b58568_258.mp4?sign=838527ec066ed8b5a03e7646fccfe4bb&t=6a4033de",
+                    "amend_2k": "26",
+                    "isSupportSubtitle": "false",
+                    "amend_mobile": "40",
+                    "topAvgLuma": "150"
+                  },
+                  "drm_type": 0,
+                  "biz_name": 110,
+                  "hdr_type": 1
+                },
+                "stream": {
+                  "h265": [
+                    {
+                      "audio_bitrate": 64411,
+                      "stream_type": 293,
+                      "weight": 46,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/293/01ea006fc9171bd2010370019e11bfe584_293.mp4?sign=ab824fefd744632b922657667fe52769&t=6a4033de",
+                      "volume": 0,
+                      "video_duration": 8150,
+                      "duration": 8154,
+                      "vmaf": -1,
+                      "psnr": 39.05099868774414,
+                      "audio_channels": 2,
+                      "video_codec": "hevc",
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/293/01ea006fc9171bd2010370019e11bfe584_293.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/293/01ea006fc9171bd2010370019e11bfe584_293.mp4"
+                      ],
+                      "default_stream": 1,
+                      "video_bitrate": 1286621,
+                      "fps": 60,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "roiWeight": "77.47276755609376",
+                        "quality_grade_fallback": "720P",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"79.40269905609375\"}",
+                        "pcdn_supplier": "",
+                        "quality_grade_fallback_with_desc": "720p HD"
+                      },
+                      "size": 1386929,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "sr": 0,
+                      "height": 1280,
+                      "stream_desc": "R265_MP4_720P_293_IOS",
+                      "width": 720,
+                      "quality_type": "HD",
+                      "audio_duration": 8154,
+                      "avg_bitrate": 1360567,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 64411,
+                      "stream_type": 294,
+                      "weight": 47,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/294/01ea006fc9171bd2010370019e11c30765_294.mp4?sign=c030c6fd3cf4bbaa465a983016f92f25&t=6a4033de",
+                      "volume": 0,
+                      "video_duration": 8150,
+                      "duration": 8154,
+                      "vmaf": -1,
+                      "psnr": 37.926998138427734,
+                      "audio_channels": 2,
+                      "video_codec": "hevc",
+                      "default_stream": 0,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/294/01ea006fc9171bd2010370019e11c30765_294.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/294/01ea006fc9171bd2010370019e11c30765_294.mp4"
+                      ],
+                      "video_bitrate": 1446797,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "roiWeight": "77.99939893734376",
+                        "quality_grade_fallback": "1080P",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"80.16959443734376\"}",
+                        "pcdn_supplier": "",
+                        "quality_grade_fallback_with_desc": "1080p HD"
+                      },
+                      "fps": 60,
+                      "size": 1550108,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "sr": 0,
+                      "audio_duration": 8154,
+                      "height": 1920,
+                      "width": 1080,
+                      "quality_type": "FHD",
+                      "stream_desc": "R265_MP4_1080P_294_IOS_low",
+                      "avg_bitrate": 1520645,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 64411,
+                      "stream_type": 295,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/295/01ea006fc9171bd2010370019e11c2bf82_295.mp4?sign=ad37e39c8a2c38aed03ee833cbefc145&t=6a4033de",
+                      "weight": 48,
+                      "volume": 0,
+                      "video_duration": 8150,
+                      "duration": 8154,
+                      "vmaf": -1,
+                      "psnr": 40.790000915527344,
+                      "video_codec": "hevc",
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/295/01ea006fc9171bd2010370019e11c2bf82_295.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/295/01ea006fc9171bd2010370019e11c2bf82_295.mp4"
+                      ],
+                      "default_stream": 0,
+                      "audio_channels": 2,
+                      "video_bitrate": 3353762,
+                      "fps": 60,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "quality_grade_fallback": "1080P",
+                        "roiWeight": "83.52570075",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"88.55634375\"}",
+                        "pcdn_supplier": "",
+                        "quality_grade_fallback_with_desc": "1080p HD"
+                      },
+                      "size": 3492829,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "sr": 0,
+                      "height": 1920,
+                      "stream_desc": "R265_MP4_1080P_295_IOS_high_control_v1_fix",
+                      "width": 1080,
+                      "quality_type": "FHD",
+                      "audio_duration": 8154,
+                      "avg_bitrate": 3426441,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 128000,
+                      "stream_type": 240,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/240/01ea006fc9171bd2010370019e12896a9d_240.mp4?sign=064b6c0e083429cb9ee9365af7bf676e&t=6a4033de",
+                      "weight": 49,
+                      "video_duration": 8150,
+                      "volume": 0,
+                      "duration": 8192,
+                      "vmaf": -1,
+                      "psnr": 41.74399948120117,
+                      "audio_channels": 2,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/240/01ea006fc9171bd2010370019e12896a9d_240.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/240/01ea006fc9171bd2010370019e12896a9d_240.mp4"
+                      ],
+                      "default_stream": 0,
+                      "video_codec": "hevc",
+                      "video_bitrate": 4450914,
+                      "fps": 60,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "1",
+                        "didLoudnorm": "false",
+                        "quality_grade_fallback": "2K",
+                        "roiWeight": "83.8723539375",
+                        "pcdn_supplier": "",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"90.5487249375\"}",
+                        "quality_grade_fallback_with_desc": "2K Ultra HD"
+                      },
+                      "size": 4677270,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "sr": 0,
+                      "audio_duration": 8192,
+                      "stream_desc": "R265_MP4_2K4K_240_IOS",
+                      "width": 1440,
+                      "quality_type": "2K",
+                      "height": 2560,
+                      "avg_bitrate": 4567646,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    },
+                    {
+                      "audio_bitrate": 128592,
+                      "stream_type": 77,
+                      "weight": 50,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/77/01ea006fc9171bd2010370019e11b68705_77.mp4?sign=f20aff0b4b818d4688101a912a2b83a2&t=6a4033de",
+                      "video_duration": 8150,
+                      "volume": 0,
+                      "duration": 8154,
+                      "vmaf": -1,
+                      "psnr": 42.42900085449219,
+                      "audio_channels": 2,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/77/01ea006fc9171bd2010370019e11b68705_77.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/77/01ea006fc9171bd2010370019e11b68705_77.mp4"
+                      ],
+                      "default_stream": 0,
+                      "video_codec": "hevc",
+                      "video_bitrate": 5542204,
+                      "fps": 60,
+                      "opaque1": {
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "0",
+                        "didLoudnorm": "false",
+                        "quality_grade_fallback": "4K",
+                        "roiWeight": "80.38264680859375",
+                        "roi_info": "{\"alpha\":\"1.0\",\"gamma\":\"0.0\",\"lambda\":\"1.5E-6\",\"mvmaf\":\"88.69595280859374\"}",
+                        "pcdn_supplier": "",
+                        "quality_grade_fallback_with_desc": "4K Ultra HD"
+                      },
+                      "size": 5789031,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "sr": 0,
+                      "height": 3840,
+                      "audio_duration": 8154,
+                      "stream_desc": "R265_MP4_2K4K_77_IOS_2tab",
+                      "quality_type": "4K",
+                      "width": 2160,
+                      "avg_bitrate": 5679000,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    }
+                  ],
+                  "av1": [],
+                  "h264": [
+                    {
+                      "audio_bitrate": 57178,
+                      "stream_type": 258,
+                      "weight": 45,
+                      "master_url": "http://sns-video-zl.xhscdn.com/stream/1/110/258/01ea006fc9171bd2010370019e11b58568_258.mp4?sign=838527ec066ed8b5a03e7646fccfe4bb&t=6a4033de",
+                      "video_duration": 8200,
+                      "volume": 0,
+                      "duration": 8200,
+                      "vmaf": -1,
+                      "psnr": 0,
+                      "audio_channels": 2,
+                      "video_codec": "h264",
+                      "default_stream": 0,
+                      "backup_urls": [
+                        "http://sns-bak-v8.xhscdn.com/stream/1/110/258/01ea006fc9171bd2010370019e11b58568_258.mp4",
+                        "http://sns-bak-v10.xhscdn.com/stream/1/110/258/01ea006fc9171bd2010370019e11b58568_258.mp4"
+                      ],
+                      "video_bitrate": 3110101,
+                      "fps": 30,
+                      "opaque1": {
+                        "didLoudnorm": "false",
+                        "quality_grade_fallback_with_desc": "720p HD",
+                        "quality_grade_fallback": "720P",
+                        "pcdn_302_flag": "false",
+                        "use_pcdn": "0",
+                        "pcdn_supplier": ""
+                      },
+                      "size": 3254403,
+                      "audio_codec": "aac",
+                      "rotate": 0,
+                      "format": "mp4",
+                      "sr": 0,
+                      "height": 1280,
+                      "audio_duration": 8154,
+                      "width": 720,
+                      "quality_type": "HD",
+                      "stream_desc": "X264_MP4",
+                      "avg_bitrate": 3175027,
+                      "hdr_type": 0,
+                      "ssim": 0
+                    }
+                  ],
+                  "h266": []
+                },
+                "video_id": 137923218703326160
+              }
+            },
+            "result_from": "",
+            "collected": false,
+            "liked_count": 30871,
+            "xsec_token": "YBIVBHyeVzH62ac7ZYhbx4enECyqRto3YNbHs3K03_Huk=",
+            "click_score": 0.0968017727136612,
+            "desc": "#灵感好店出道计划  #谁懂这一口的好吃程度啊  #妈呀这也太好吃了吧  #本地人安利的美食  #条条小路都好吃  #谁",
+            "interaction_area": {
+              "type": 1,
+              "status": false,
+              "text": "30871"
+            },
+            "title": "天啊！！这个是什么！！好好吃。。。",
+            "images_list": [
+              {
+                "height": 1920,
+                "need_load_original_image": false,
+                "fileid": "1040g2sg32003mpng2i7g4a2c93ga6fido459nrg",
+                "width": 1440,
+                "original": "",
+                "url_size_large": "https://sns-na-i11.xhscdn.com/1040g2sg32003mpng2i7g4a2c93ga6fido459nrg?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=3d7bb629632e312eb14cd5d3152ee4f7&t=6a3b969e&origin=0",
+                "trace_id": "1040g2sg32003mpng2i7g4a2c93ga6fido459nrg",
+                "url": "https://sns-na-i11.xhscdn.com/1040g2sg32003mpng2i7g4a2c93ga6fido459nrg?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=3d7bb629632e312eb14cd5d3152ee4f7&t=6a3b969e&origin=0"
+              }
+            ],
+            "geo_info": {
+              "distance": ""
+            },
+            "timestamp": 1778413543
+          },
+          "model_type": "note"
+        }
+      ],
+      "search_dqa_new_page_exp": 1,
+      "can_cut": false,
+      "strategy_info": {
+        "query_average_impression_count": 19,
+        "query_can_guide_to_feed": true
+      },
+      "cur_cut_number": 0,
+      "request_dqa": 0,
+      "query_type": 0,
+      "taxonomy1": "5ab094be481d26b8ef9045f1",
+      "is_broad_query": true,
+      "video_intent_grade_v3": 1,
+      "show_single_col": false,
+      "query_debug_info": {
+        "is_forbidden": false
+      },
+      "query_intent": {
+        "search_ask_intent": true,
+        "goodsIntent": 2,
+        "low_supply_intent": false
+      },
+      "onebox": {
+        "search_agent": {
+          "elements": [
+            {
+              "markdown": {
+                "text": "不知道吃什么的时候，可以试试下面这些，从快手家常菜到地方特色小吃，总有一款能戳中你！\n\n#### 🍳 在家也能做的惊艳大餐\n\n想让餐桌变得好看又好吃，可以试试下面这几道，不仅味道棒，颜值也很高，随便做一道端上桌都会被夸！\n\n- ​**​柠檬百香果虾球：​**​ 酸甜清爽，果香浓郁，非常开胃，做法也不复杂。\n\n- ​**​芝士瀑布土豆牛肉：​**​ 芝士爱好者必选，浓郁的芝士拉丝配上软烂的土豆和牛肉，一口下去超满足。\n\n- ​**​火山番茄芝士肉丸：​**​ 红亮浓郁，肉丸Q弹，搭配番茄酱汁和融化的芝士，很适合拍照发朋友圈。\n\n- ​**​黑椒蜂蜜牛肉粒：​**​ 咸甜口味，黑椒的微辣和蜂蜜的香甜融合得恰到好处，牛肉粒鲜嫩多汁，超级下饭。"
+              },
+              "element_type": "markdown"
+            },
+            {
+              "image": {
+                "image_list": [
+                  {
+                    "height": 2700,
+                    "note_id": "6a20ed8f000000003601b126",
+                    "file_id": "notes_pre_post/1040g3k8320vr6mg17k7g5q9p2q1domor8927pb0",
+                    "width": 2020,
+                    "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17k7g5q9p2q1domor8927pb0?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=6de1d0f6c60930c7c707194550b7a9f0&t=6a3b969e&origin=0",
+                    "user_id": "693916820000000037005b1b",
+                    "url": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17k7g5q9p2q1domor8927pb0?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=6de1d0f6c60930c7c707194550b7a9f0&t=6a3b969e&origin=0"
+                  },
+                  {
+                    "height": 2700,
+                    "note_id": "6a20ed8f000000003601b126",
+                    "file_id": "notes_pre_post/1040g3k8320vr6mg17k8g5q9p2q1domornmrlgmo",
+                    "width": 2020,
+                    "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17k8g5q9p2q1domornmrlgmo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=53460f5b45ceb7d814a2134d78c08137&t=6a3b969e&origin=0",
+                    "user_id": "693916820000000037005b1b",
+                    "url": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17k8g5q9p2q1domornmrlgmo?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=53460f5b45ceb7d814a2134d78c08137&t=6a3b969e&origin=0"
+                  },
+                  {
+                    "height": 2700,
+                    "note_id": "6a20ed8f000000003601b126",
+                    "file_id": "notes_pre_post/1040g3k8320vr6mg17k805q9p2q1domorlnnme4g",
+                    "width": 2020,
+                    "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17k805q9p2q1domorlnnme4g?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=5418d31835a04562ebe7413c4b52114d&t=6a3b969e&origin=0",
+                    "user_id": "693916820000000037005b1b",
+                    "url": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17k805q9p2q1domorlnnme4g?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=5418d31835a04562ebe7413c4b52114d&t=6a3b969e&origin=0"
+                  },
+                  {
+                    "height": 2700,
+                    "note_id": "6a20ed8f000000003601b126",
+                    "file_id": "notes_pre_post/1040g3k8320vr6mg17kc05q9p2q1domorpf1tiq8",
+                    "width": 2020,
+                    "url_size_large": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17kc05q9p2q1domorpf1tiq8?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=14175da5bbc3ba4baa41a11c9c71f97b&t=6a3b969e&origin=0",
+                    "user_id": "693916820000000037005b1b",
+                    "url": "https://sns-na-i11.xhscdn.com/notes_pre_post/1040g3k8320vr6mg17kc05q9p2q1domorpf1tiq8?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=14175da5bbc3ba4baa41a11c9c71f97b&t=6a3b969e&origin=0"
+                  }
+                ]
+              },
+              "element_type": "image"
+            },
+            {
+              "markdown": {
+                "text": "\n\n#### 🍜 不知道吃啥时的快手选择\n\n如果不想费脑筋，下面这些简单又美味的选择可以闭眼入。\n\n- ​**​番茄虾滑肥牛乌冬面：​**​ 面条吸满了酸爽的番茄汤汁，再配上鲜美的虾滑和肥牛，满满一大碗全是料，吃起来特别满足。\n\n- ​**​无水焖虾：​**​ 做法超级简单，锅里铺上葱姜，放上腌好的虾，沿着锅边淋入料酒焖煮几分钟，再调一个万能蘸料，就能吃到原汁原味的鲜甜大虾。\n\n- ​**​地方特色小吃：​**​ 如果想来点不一样的，可以试试各地的特色小吃，比如外酥里糯的::dqa:underline:{\"text\":\"恩施炕土豆\",\"params\":{\"query\":\"恩施炕土豆\",\"title\":\"恩施炕土豆\",\"keyword\":\"恩施炕土豆\"}}::、酸辣开胃的::dqa:underline:{\"text\":\"土家鲊广椒炒腊肉\",\"params\":{\"query\":\"土家鲊广椒炒腊肉\",\"title\":\"土家鲊广椒炒腊肉\",\"keyword\":\"土家鲊广椒炒腊肉\"}}::，或是汤浓肉嫩的::dqa:underline:{\"text\":\"牛三鲜\",\"params\":{\"query\":\"牛三鲜\",\"title\":\"牛三鲜\",\"keyword\":\"牛三鲜\"}}::，都很有风味。::dqa:quote:{\"text_length\":44,\"params\":{\"text_source_param\":\"%7B%22id%22%3A%22f879cabe-94b4-4d51-bfbb-84d650a5c134%22%7D\"}}::\n\n#### 🍚 经典家常与地方风味\n\n有些美食虽然常见，但永远是餐桌上的宠儿。\n\n- ​**​经典家常菜：​**​ 像西红柿炒鸡蛋，简单却美味，是很多人心中家常菜的代表。::dqa:quote:{\"text_length\":44,\"params\":{\"text_source_param\":\"%7B%22id%22%3A%22f879cabe-94b4-4d51-bfbb-84d650a5c134%22%7D\"}}::\n\n- ​**​地方名吃：​**​ 出门在外，可以尝尝当地特色，比如爽滑的::dqa:underline:{\"text\":\"云南过桥米线\",\"params\":{\"query\":\"云南过桥米线\",\"title\":\"云南过桥米线\",\"keyword\":\"云南过桥米线\"}}::、香气扑鼻的::dqa:underline:{\"text\":\"武汉热干面\",\"params\":{\"query\":\"武汉热干面\",\"title\":\"武汉热干面\",\"keyword\":\"武汉热干面\"}}::，都是不容错过的美味。\n\n#### 🥣 肠胃友好型美食\n\n如果肠胃不太舒服，或者想吃点清淡好消化的，可以试试这些。\n\n- ​**​板栗炖鸡：​**​ 秋季的养生膳食，板栗软糯，鸡肉鲜美，营养丰富又温和。::dqa:quote:{\"text_length\":42,\"params\":{\"text_source_param\":\"%7B%22id%22%3A%2293b04a7c-92bb-48d5-b264-e2947640136e%22%7D\"}}::\n\n- ​**​豆腐青菜汤：​**​ 做法简单，清淡爽口，营养又好消化。\n\n- ​**​香蕉苹果泥：​**​ 将水果煮熟或打成泥，口感软糯，非常适合消化能力弱的时候吃。"
+              },
+              "element_type": "markdown"
+            }
+          ],
+          "id": "0316e3470deb31e2b8bb9f4df9875161",
+          "dqa_footer": {
+            "source_avatars": [
+              "https://fe-platform.xhscdn.com/platform/104101l031g4oi6q420f6al3rss8g0000000005788lb42",
+              "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319b1rjqu5k0g5odt7ufk1u36nu5h6ig?imageView2/2/w/80/format/jpg"
+            ],
+            "question": {
+              "question_again": "xhsdiscover://search_agent_page?id=0316e3470deb31e2b8bb9f4df9875161&search_id=3602663e260e4b35&query=%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%8D%90&source=simple&business_type=DQA&version=1010&result_version=2",
+              "question_title": "Ask"
+            },
+            "source_title": "ai summarized notes & websites"
+          },
+          "base_deeplink": {
+            "underline": "xhsdiscover://search/result?background_transparent_v2=true&halfShadowCorner=12&needNewRootNavigation=true&business_type=DQA&answer_id=0316e3470deb31e2b8bb9f4df9875161&result_version=2&halfShadowHeight=0.75&enable_half_screen=true&half_screen_height_ratio=0.7&half_screen_mask=true&add_to_history=true&source=dqa",
+            "recommend": "xhsdiscover://rn/search-page/source-panel?sourceType=0&halfShadowHeight=0.75&background_transparent_v2=true&halfShadowCorner=12&size=10&page_from=0&needNewRootNavigation=true",
+            "quote": "xhsdiscover://rn/search-page/text-source-panel?halfShadowHeight=0.5&background_transparent_v2=true&halfShadowCorner=12&sourceType=1&subTitle=&version=1010&result_version=2&message_id=&query=%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%8D%90&needNewRootNavigation=true",
+            "underline_v2": "xhsdiscover://search/result?background_transparent_v2=true&halfShadowCorner=12&needNewRootNavigation=true&business_type=DQA&answer_id=0316e3470deb31e2b8bb9f4df9875161&result_version=2&halfShadowHeight=0.75&enable_half_screen=true&half_screen_height_ratio=0.7&half_screen_mask=true&add_to_history=true&source=dqa"
+          },
+          "card_type": "DQA_0",
+          "link": "xhsdiscover://search_agent_page?id=0316e3470deb31e2b8bb9f4df9875161&search_id=3602663e260e4b35&query=%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%8D%90&source=simple&business_type=DQA&version=1010&result_version=2"
+        },
+        "under_filter": false,
+        "model_type": "search_agent"
+      },
+      "service_status": "{\"filter\":\"not_required\",\"note\":\"success\",\"onebox\":\"not_required\",\"cost\":{\"all\":690,\"zone\":\"rcsh1\"}}",
+      "search_pull_down_opt_exp": 1,
+      "dqa_authorized_user_by_shared": false
+    },
+    "search_id": "3602663e260e4b35",
+    "search_session_id": "aa65203d53bc46c48ae436151b74aadd",
+    "page": 1,
+    "next_page": 2
+  },
+  "balance": 100
+}

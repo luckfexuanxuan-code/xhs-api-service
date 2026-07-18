@@ -1,0 +1,140 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "all_sort_strategies": [],
+    "current_sort_strategy": "default",
+    "has_more": true,
+    "cursor": "{\"cursor\":\"673befd90000000007020a66\",\"index\":2,\"pageArea\":\"UNFOLDED\"}",
+    "page_context": "{\"highlight\":[\"补气血\"],\"support_folded\":true}",
+    "comments": [
+      {
+        "note_id": "6718e886000000001b02c67c",
+        "status": 0,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "downvoted": false,
+        "show_type": "common",
+        "friend_liked_msg": "",
+        "translation_strategy": 10,
+        "share_strategy": 0,
+        "id": "6724c891000000001802a258",
+        "content": "这种是不是热量爆表",
+        "liked": false,
+        "score": 0,
+        "track_id": "interaction-service.local",
+        "collected": false,
+        "user": {
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "ae6fbc3f0ac57efe449e3a455854b",
+          "nickname": "Rubyjor",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s2qepcdko005n2d00l4kufipu8kogo?imageView2/2/w/120/format/jpg",
+          "red_id": "963107125",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {}
+        },
+        "comment_type": 0,
+        "at_users": [],
+        "like_count": 1,
+        "hidden": false,
+        "sub_comment_count": 3,
+        "sub_comments": [],
+        "time": 1730463890,
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "false"
+        }
+      },
+      {
+        "track_id": "interaction-service.local",
+        "content": "请问小丸子是什么牌子的呀",
+        "score": 0,
+        "time": 1730218432,
+        "user": {
+          "userid": "a76b3d548c885c43aff559903e124",
+          "nickname": "Cici",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3154bbd0s0u605n7cr4h4g6bs47nnbn8?imageView2/2/w/120/format/jpg",
+          "red_id": "350899626",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false"
+        },
+        "biz_label": {
+          "rich_text": "unknown",
+          "product_review": false,
+          "group_invite": "false"
+        },
+        "translation_strategy": 10,
+        "downvoted": false,
+        "note_id": "6718e886000000001b02c67c",
+        "show_type": "common",
+        "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "share_strategy": 0,
+        "liked": false,
+        "hidden": false,
+        "status": 0,
+        "collected": false,
+        "sub_comments": [],
+        "show_tags": [],
+        "comment_type": 0,
+        "id": "672109bf000000001a026cc0",
+        "at_users": [],
+        "like_count": 1,
+        "sub_comment_count": 3
+      },
+      {
+        "content": "可以换汤圆吗哈哈哈哈",
+        "hidden": false,
+        "score": 0,
+        "sub_comments": [],
+        "time": 1731203370,
+        "comment_type": 0,
+        "note_id": "6718e886000000001b02c67c",
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "a2a747918a2816fa8f89dc06acdfa",
+          "nickname": "西柠茶铺",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kuumssme0g4a4kkri2pgf6s069j1g?imageView2/2/w/120/format/jpg",
+          "red_id": "270804874",
+          "level": {
+            "image": ""
+          }
+        },
+        "show_tags": [],
+        "show_type": "common",
+        "friend_liked_msg": "",
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "false"
+        },
+        "translation_strategy": 10,
+        "share_strategy": 0,
+        "like_count": 1,
+        "status": 0,
+        "track_id": "interaction-service.local",
+        "downvoted": false,
+        "at_users": [],
+        "liked": false,
+        "sub_comment_count": 5,
+        "show_tags_v2": [],
+        "collected": false,
+        "id": "6730112a000000001b007797"
+      }
+    ],
+    "user_id": "66ad10fd000000001d023e7b",
+    "comment_count": 132,
+    "comment_count_l1": 87
+  },
+  "balance": 99.86
+}

@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "data": {
+      "cursor": "{\"cursor\":\"6a39ab31000000002a02f7c5\",\"index\":2}",
+      "page_context": "{\"highlight\":[\"雷霆美颜\"]}",
+      "has_more": false,
+      "comments": [
+        {
+          "liked": false,
+          "status": 0,
+          "time": 1782164274,
+          "friend_liked_msg": "",
+          "hidden": false,
+          "downvoted": false,
+          "show_type": "common",
+          "show_tags": [],
+          "note_id": "6a3914530000000007028b80",
+          "like_count": 2,
+          "collected": false,
+          "score": 0,
+          "translation_strategy": 9,
+          "target_comment": {
+            "id": "6a39ab1e0000000029025587",
+            "status": 0,
+            "user": {
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/616fcb1982deb374d02853eb.jpg?imageView2/2/w/120/format/jpg",
+              "red_id": "242124014",
+              "userid": "a8914599bc0d43327e118692ed07c",
+              "nickname": "归来",
+              "ai_agent": false,
+              "level": {
+                "image": ""
+              },
+              "current_user": "false",
+              "additional_tags": {}
+            }
+          },
+          "comment_type": 0,
+          "id": "6a39ab31000000002a02f7c5",
+          "user": {
+            "userid": "a8914599bc0d43327e118692ed07c",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/616fcb1982deb374d02853eb.jpg?imageView2/2/w/120/format/jpg",
+            "red_id": "242124014",
+            "nickname": "归来",
+            "ai_agent": false,
+            "level": {
+              "image": ""
+            },
+            "current_user": "false",
+            "additional_tags": {}
+          },
+          "share_strategy": 0,
+          "biz_label": {
+            "product_review": false,
+            "group_invite": "false",
+            "rich_text": "true"
+          },
+          "ip_location": "Beijing",
+          "relatable_to_note": false,
+          "at_users": [],
+          "hash_tags": [
+            {
+              "disable_jump": false,
+              "name": "雷霆美颜",
+              "type": "搜索高亮",
+              "link": "xhsdiscover://search/result?keyword=%E9%9B%B7%E9%9C%86%E7%BE%8E%E9%A2%9C&target_search=notes&mode=note_text_highlight&word_request_id=f38e8442f9d3f9da0e2d57cc6a3a043a&source=comment_highlight&api_extra=%7B%22source_note_id%22%3A%226a3914530000000007028b80%22%7D&add_to_history=true&enable_half_screen=true&half_screen_height_ratio=0.7&half_screen_mask=true"
+            }
+          ],
+          "show_tags_v2": [],
+          "content": "说的是这张图，不是说您的 #雷霆美颜[搜索高亮]#"
+        }
+      ]
+    }
+  },
+  "balance": 0
+}

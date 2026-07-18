@@ -1,0 +1,40 @@
+# Sensitive configuration
+server/config.local.js
+server/.env
+.env
+.env.*
+!.env.example
+上游API文档.md
+在线充值对接.md
+
+# Runtime data
+server/data/
+server/call_logs/
+call_logs/
+backups/
+*.db
+*.db-shm
+*.db-wal
+
+# Dependencies and build output
+node_modules/
+client/node_modules/
+server/node_modules/
+client/build/
+
+# Logs
+*.log
+server/nohup.out
+npm-debug.log*
+
+# Local and backup files
+.DS_Store
+__pycache__/
+*.py[cod]
+*.backup-*
+*.bak
+*.tmp
+
+# IDE
+.vscode/
+.idea/
