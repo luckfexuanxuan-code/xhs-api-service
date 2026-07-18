@@ -1,80 +1,130 @@
-# Galaxy API Service
+# Galaxy API 数据服务平台
 
-一个简单的 Node.js API 代理与计费服务，包含 React 管理后台、SQLite 数据存储和在线 API 文档。
+> 小红书、抖音等平台的数据 API 服务，提供统一鉴权、在线文档、接口测试、调用统计与按次计费。
 
-## 功能
+无需自行维护账号、Cookie、代理或处理复杂的风控与加密逻辑，通过标准 HTTP API 即可获取数据。
 
-- API Key 鉴权与余额计费
-- 多上游接口转发与失败回退
-- 调用日志、用量统计和接口定价
-- React 管理后台
-- 在线 API 文档与测试
+## 平台入口
 
-## 技术栈
+- 官方网站：https://galaxysapi.com/
+- API 文档：https://api.galaxysapi.com/doc/
+- API 地址：`https://api.galaxysapi.com`
+- 商务咨询 / 充值：微信 `zx_luckfe`
 
-- Node.js + Express
-- SQLite（better-sqlite3）
-- React + Vite
+## 平台功能
 
-## 快速开始
+- API Key 统一鉴权
+- 调用成功才扣费，失败和异常不扣费
+- 在线接口文档与一键测试
+- 调用日志、消费记录和用量统计
+- 多上游自动切换与失败回退
+- 用户多密钥管理
+- 接口定价与账户余额管理
+- 支持接口定制与商务合作
 
-要求：Node.js 18+
+## 接口服务
+
+### 小红书 App
+
+| 接口能力 | 说明 |
+|---|---|
+| 笔记详情 | 获取图文或视频笔记详情 |
+| 视频笔记详情 | 获取视频笔记及视频资源信息 |
+| 笔记搜索 | 按关键词搜索笔记，支持翻页 |
+| 一级评论 | 获取笔记一级评论列表 |
+| 二级评论 | 获取指定评论的回复列表 |
+| 用户信息 | 获取小红书用户公开信息 |
+| 用户作品列表 | 获取用户公开笔记列表 |
+| 话题标签笔记 | 获取指定话题下的笔记列表 |
+
+### 小红书 Web
+
+| 接口能力 | 说明 |
+|---|---|
+| 笔记详情 | 获取 Web 端笔记详情 |
+| 笔记搜索 | 搜索公开笔记 |
+| 用户搜索 | 搜索小红书用户 |
+| 关联词搜索 | 获取关键词联想词 |
+| 一级 / 二级评论 | 获取 Web 端评论数据 |
+| 达人商品笔记 | 获取达人商品相关笔记 |
+| 商品详情 | 获取商品公开信息 |
+| xsec_token 更新 | 更新后续请求需要的令牌 |
+
+### rNote App
+
+| 接口能力 | 说明 |
+|---|---|
+| 图文 / 视频详情 | 获取不同类型的笔记详情 |
+| 笔记 / 用户搜索 | 搜索笔记或用户 |
+| 用户作品 / 收藏 | 获取用户公开作品或收藏 |
+| 评论 / 二级评论 | 获取笔记评论数据 |
+| 商品搜索 / 详情 / 评论 | 获取公开电商数据 |
+| 话题详情 / 话题笔记 | 获取话题及其笔记列表 |
+
+### 抖音 App
+
+| 接口能力 | 说明 |
+|---|---|
+| 视频详情 | 获取公开视频信息 |
+| 视频评论 | 获取视频一级评论 |
+| 视频二级评论 | 获取评论回复 |
+| 用户信息 | 获取用户公开资料 |
+| 用户作品列表 | 获取用户公开视频列表 |
+| 综合搜索 | 搜索公开视频与相关内容 |
+
+### 小红书蒲公英
+
+| 接口能力 | 说明 |
+|---|---|
+| 作者信息 | 获取作者基础信息 |
+| 作者数据表现 | 获取作者数据指标 |
+| 作者成长表现 | 获取作者成长趋势 |
+| 作者笔记列表 | 获取作者公开笔记 |
+| 作者推广成本 | 获取推广成本参考数据 |
+| 达人列表 | 查询符合条件的达人 |
+| 核心指标 / 数据概览 | 获取账号核心数据 |
+| 粉丝增长 / 粉丝标签 | 获取粉丝相关统计 |
+| 笔记详情 | 获取蒲公英笔记数据 |
+
+完整参数、请求方式和返回示例请查看 [API 文档](https://api.galaxysapi.com/doc/)。
+
+## 调用示例
 
 ```bash
-# 1. 配置
-cp server/config.local.example.js server/config.local.js
-# 编辑 server/config.local.js，填写上游和管理员配置
-
-# 2. 构建前端
-cd client
-npm ci
-npm run build
-
-# 3. 启动服务
-cd ../server
-npm ci
-npm test
-npm start
+curl -G 'https://api.galaxysapi.com/api/get_note_detail' \
+  -H 'Authorization: YOUR_AUTH_KEY' \
+  --data-urlencode 'note_id=NOTE_ID'
 ```
 
-默认端口为 `9090`：
+```python
+import requests
 
-- API 文档：`http://localhost:9090/doc/`
-- 管理后台：`http://localhost:9090/dashboard/`
-- 价格接口：`http://localhost:9090/api/prices`
+response = requests.get(
+    "https://api.galaxysapi.com/api/get_note_detail",
+    headers={"Authorization": "YOUR_AUTH_KEY"},
+    params={"note_id": "NOTE_ID"},
+    timeout=30,
+)
 
-## 配置
-
-敏感配置放在：
-
-```text
-server/config.local.js
+print(response.json())
 ```
 
-该文件、数据库、日志和构建产物均已加入 `.gitignore`，请勿提交真实密钥。
+## 使用流程
 
-常用环境变量：
+1. 访问 [Galaxy API](https://galaxysapi.com/) 注册账号。
+2. 注册完成后，平台会自动生成默认 API Key。
+3. 在 [API 文档](https://api.galaxysapi.com/doc/) 中查看参数并在线测试。
+4. 请求时在 `Authorization` Header 中携带 API Key。
+5. 如需充值、批量调用或定制接口，请联系管理员。
 
-```bash
-SERVICE_PORT=9090
-TRUST_PROXY=false
-CORS_ORIGIN=*
-KEY_RATE_LIMIT_QPS=15
-```
+## 联系方式
 
-## 项目结构
+- 微信：`zx_luckfe`
+- 服务内容：API 接入、批量调用、接口定制、商务合作
+- 在线支付暂未开放，充值请联系管理员
 
-```text
-client/          React 管理后台
-server/          Express 服务
-server/routes/   API 路由
-server/static/   客户端 API 文档
-server/tests/    自动化测试
-```
+> 请在遵守目标平台规则及相关法律法规的前提下使用本服务，不得用于侵犯个人隐私或其他非法用途。
 
-## 测试
+---
 
-```bash
-cd server
-npm test
-```
+最后更新：2026-07-18
