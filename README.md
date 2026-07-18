@@ -94,7 +94,8 @@ print(response.json())
 
 ## 联系方式
 
-- 微信：`zx_luckfe`
+- wechat：`luckfe_zx`\
+- tg:@luckfezx
 - 服务内容：API 接入、批量调用、接口定制、商务合作
 
 > 请在遵守目标平台规则及相关法律法规的前提下使用本服务，不得用于侵犯个人隐私或其他非法用途。
