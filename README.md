@@ -68,7 +68,7 @@
 | 粉丝增长 / 粉丝标签 | 获取粉丝相关统计 |
 | 笔记详情 | 获取蒲公英笔记数据 |
 
-完整参数、请求方式和返回示例请查看 [API 文档](https://api.galaxysapi.com/doc/)。
+完整参数、请求方式和返回示例请查看 [API 文档](https://api.galaxysapi.com/doc/?utm_source=github&utm_medium=readme&utm_campaign=xhs-api-service)。
 
 ## 调用示例
 
